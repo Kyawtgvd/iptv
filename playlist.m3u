@@ -809,9 +809,10 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 #https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 group-title="ASTRO SPORTS⭐" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 group-title="ASTRO SPORTS⭐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", Astro Arena 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -835,7 +836,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNDMyOTc1ODYiLCJyZWZyZXNoX3Rva2VuIjoiVDVmSDVKT2prUkFxZldiSGlFa2N0bUU1NGlpWll1TVlPVmp4MGVuTHczY0l6dGR2ejNaZ2RQR3kzXC9pajRQS3hcL2FHZkJhVXZrM1wvNWlHOHlkK0pXQm12ZTlRcDZ3d0lueVRndzdkUHlhSXV1cjcySGd0aW1hXC8xRGxhVkxqQUZIeUQwNkk4MW5GNUpWZmJ2V01XajY1UmpRUjhRTVJhdmNcL0txWFlrbkVNcTV1NWFYRHRVbUxsT3UxWVZ5SDhCbzBlZlVJSmtwZ21OTlZ6ejdhTHc2TEh4SG9iOHJtTmNHeDU5akFUQUZkR0dKMzlIV1VLYVlUbkhsbCtFbE9zNWVTS1wvSjMyQURETmVpTDF6cm5EY1pVaWlDSDdJMTVxdE5rM2pUaldlYmZjTzJ5R1J0MEU5d2JqUGRtMnU3QWhRMW1BMG15M1wvRHEraHBDWmdSNXdXeXJ5Y2JTRDFGa2NKZ1ZBM3dPeG1PcHZLNFZzdXFsWWtBM2JLVmtPVyt5cGkzdDV3VVNVYVowYXNYOHJrQVdKS1o4NVE9PSJ9
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+#https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 group-title="ASTRO SPORTS⭐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png", Astro Bola 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -843,7 +844,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjgwNDc5MTMiLCJyZWZyZXNoX3Rva2VuIjoieU1hREcyV09XamFmYXpMdzZTU0o0UTBBY0Rsc2RnamEyOEx5YUFNaVpvODFPbGNGVmpueVhpQTQ2TGtLQU1XS216cmNRT3ViSklUT3JPb2xTQXBtXC9ISGxBVVhJMzRjaVM2bmpiTExLTWFRQlFpVmJiT01DVVBqVGRBVU5sb25tNHRrRThzN0pUTjRGcW5GMEx1K05ucm1lWEZ2Y25jdVdZTmM5eGl0cHpiNTZRSVYzRzVMVGRRekNrZWM2XC9RRkNzQlwvc050aDNWejdkdVVYOG4zZTJVd3N6dVU5S01JaFo2OFI3SGRGbXJJRVwvT1lCXC9jaUl3MThmaVMrOWVlXC84WU0rXC9tR29lckVndUZramZnUVd5NWlRWHpwMW01MTNqSms3OURhTUZORlQyRWlQeFNXOVRpVzJiM2grSE01MXZhbTZrNEtVeUVRMldLN2Zzb3Zia2JRVDREZDhjeHYrd29ydisySDYyZ21USEFxSlwvU2JRdWRrcWJKM3F6NUFMRnZ1RTJKU2NQUmFSdzV0STVtU3pzWEFBPT0ifQ==
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+#https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 group-title="ASTRO SPORTS⭐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
