@@ -22,9 +22,9 @@ http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/660925.ts
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png", Sky Sports Main Event (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795099&extension=m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png", Sky Sports Main Event (50)
-http://50.7.234.10:8278/tiankongmain/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=76b5525f10f5309a5e4285ca4ad8c3bd
+#http://50.7.234.10:8278/tiankongmain/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=76b5525f10f5309a5e4285ca4ad8c3bd
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png", Sky Sports Main Event (7pal)
-https://7pal.short.gy/SkSpMainE
+#https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 group-title="Football" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904161002034102_45.png", Sky Sport Premier League (epg)
 https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png", Sky Sports Premier League (gtv)
@@ -32,7 +32,7 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795086&extension
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png", Sky Sports Premier League (reals)
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2181.ts
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png", Sky Sports Premier League (7pal)
-https://7pal.short.gy/ssportspl
+#https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="Football" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now Premier Sports 1 (sxj)
 https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
 #EXTINF:-1 group-title="Football" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png", Now Sports Plus (sxj)
@@ -111,8 +111,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48446.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48447.ts
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 6 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48448.ts
-#EXTINF:-1 group-title="Eleven Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 1 (xip)
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/35264
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN ELEVEN 1 (reals)
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/925.ts
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN ELEVEN 2 (reals)
@@ -310,12 +308,6 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
 
 
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png", Sony Ten Sport 1 (mhd)
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png", Sony Ten Sport 2 (mhd)
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png", Sony Ten Sport 3 (mhd)
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (cdn)
