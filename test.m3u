@@ -96,6 +96,12 @@ https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebpla
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
 
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
 #EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", beIN Sports 1 (a)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTcyMzE2MDQiLCJyZWZyZXNoX3Rva2VuIjoicFkwMzRrSVJnUHRGbGRCeldhbkkwU1BxaFpnd1hxY09BNnpBVENkN21qZFByT2NyMVQyOTVzZUFOTGNJbDU3dDFrajZkSE5la2FJTWtsZnNsSlRMa005WE9rblowbnZ5Y1plZnQ3UVFPeE94d3hnXC9DbUI4NlBHeURGdUI1STNTU0loZWl6NlRPeDRHcThVWElzVkF3OG1Vbm9jRXNHUzlIUXJzNkJ2RTV0V3FLQkJcL0N5V3EwWlZtXC9ZYTYyS1BCc0VvR0htVUhkdGhaMTBGNmYyWFJKZUppTjBHTlg4NUVtS1F1ZndiYjZZeFM5eHJnc0FoU3k3NlFYOGIzb0hieGhcL0FqK0tTYWc3b21iRDZYXC9RMTIwY0FmVzE0NEYrVjdVRVwvNzJuZFwveWNySW1uWFR3RkRSRnlobmx2MEwrTTJWQlF2d1ZSblwvZzdYNlFFays2eW9LSXJVK3c2RWdVWVAzSGEwbHhvbkNOWVJtSUdXS3NEY01SOWxTYmZOY2lacHpXcTRHXC9zZUdldEZ5MlFpUXhLY2dhQT09In0=
