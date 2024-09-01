@@ -96,50 +96,38 @@ https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebpla
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
 
-#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-
-#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", beIN Sports 1 (a)
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", Astro beIN Sports 1 (a)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTcyMzE2MDQiLCJyZWZyZXNoX3Rva2VuIjoicFkwMzRrSVJnUHRGbGRCeldhbkkwU1BxaFpnd1hxY09BNnpBVENkN21qZFByT2NyMVQyOTVzZUFOTGNJbDU3dDFrajZkSE5la2FJTWtsZnNsSlRMa005WE9rblowbnZ5Y1plZnQ3UVFPeE94d3hnXC9DbUI4NlBHeURGdUI1STNTU0loZWl6NlRPeDRHcThVWElzVkF3OG1Vbm9jRXNHUzlIUXJzNkJ2RTV0V3FLQkJcL0N5V3EwWlZtXC9ZYTYyS1BCc0VvR0htVUhkdGhaMTBGNmYyWFJKZUppTjBHTlg4NUVtS1F1ZndiYjZZeFM5eHJnc0FoU3k3NlFYOGIzb0hieGhcL0FqK0tTYWc3b21iRDZYXC9RMTIwY0FmVzE0NEYrVjdVRVwvNzJuZFwveWNySW1uWFR3RkRSRnlobmx2MEwrTTJWQlF2d1ZSblwvZzdYNlFFays2eW9LSXJVK3c2RWdVWVAzSGEwbHhvbkNOWVJtSUdXS3NEY01SOWxTYmZOY2lacHpXcTRHXC9zZUdldEZ5MlFpUXhLY2dhQT09In0=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png", beIN Sports 2 (a)
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png", Astro beIN Sports 2 (a)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTk2MzcyODAiLCJyZWZyZXNoX3Rva2VuIjoiUjZjSW1YNlNXVDJiQlVlUStwUTZib1oyaytlTisyZEo4RUZnK1lCdnVBNzZoR2RJekpndGlCYkhpVkk5eVV3Z2NCaTRYU2NhQnBWU0JKV0NHNXhtdHBia2hjb1lYekZ5aVwvUU5ibVk0Y2Y4R2s5Rk5Fb1R5enJhTFdDR2N4SjhmQTZrSEdqZnVVM1wvYm5mK3NsTFFRa0hQM1NKcTZWZ1N0SUJpb1dMNUE5SXdYYVwvODhrZGZwSkh2TmpOMUN6NWI5UkVQaENJVmRSMVlKS0YxUUQrVk1yaE9XQlJBU1FObUY1SjVLU2wycGVCZVwvdXVLNHVIXC85ODg0Uno4bUk1bG5DYUhqN29lcDhwNWluVFlFXC80VEYrcWM4MVwvK1Q2YmN5WDNGMUpCaFM3Mzl6T1dRY2FpeDlqekxhWHRkQkpCVm1WbmRwVmpBOGxGR3JqMmZhNE9Mam1hQitYWHd5TDBXaHZPbDVHakVEc3NjWkRXRXJTZkNGQTZnZW1NY015VlBPYSJ9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN Sports 3 (a)
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", Astro beIN Sports 3 (a)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODM3MjQ5MTAiLCJyZWZyZXNoX3Rva2VuIjoieVNyUXlMSFdLVXp3KzVvamJVSjlRYmJkY29HWjU5S24yTXYzaDN6aHFTUjlJdTRPWFlFV1F6WHNzU2NTWWY1V3lNWHUyTlFzVXQ4eXdvMHVlR1NaVXM3Y2pQcmcwb2IxQnBaVEV1ZlVjNkZJOFwvcVE0RURyNUpwNFJEWTljbTlaRVdOMnVuZytPbnRUcitZUFExbXlPZEttNGpqekxrZCtBRmtqRjlodUFac2RHV3VBUFhUZHFkUlRjNDZGa1BGcCtNdXBjbGJPazIyV2dJNm1sd0ExQWZJS2lmWWRBWjY0ZVNhYVRtVXAyMSt6RDYya0NsNjFkVEVrbGJGaUZHRW5VQzJaMXZiS0tmODBvMW5rSDBYVWozUkVxMHg4bVVUZW1kM2I2eU1JTnJBb29wVGZBaWcwU2dieDczUWFxYmhKS1wvWXlIMnYxQ0RcL3JKTU04VVB5R2tRZ2Rrd1B0MG1tNWNkM1g4VjJlSlNlN3oyN0p3ZHhFRHZkSHZRMDF5cTk3In0=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", beIN Sports 1 (b)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yWTNZemN4WVdRdE1EbGhOQzAwT0dObExXSmpNRGN0TlRWaU5ESTFOR0ZpTm1JMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDgxMDkxMSwiaWF0IjoxNzI0MjA2OTExfQ.00zOM4roglj-bC7m2P3lGGQIQG9SEtKoLhifnmIXe34"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzY4NTMxOTQiLCJyZWZyZXNoX3Rva2VuIjoiMkFRXC9MN0t4VnZuVEhUK1QycXVDQkhYQ2RRNnAzcEpGUUtUN3NZTnhHOStsT0trRVBTQ0ZuVE5ERW91Nkxqbm50V2lQdUVwbjdtUkNCR0g4XC9TQm1hbzlkUW5mcjA5MHlcLzViU2dnUWRtdGlua0twV3FCZjExN2czZk1xeWJleUtLU2JybFlwN2RoMHZ4NlExSmxRSzNEcTM1eGZ2WTBRZHlHWkhPbDFGU2o5R0ZwWW94aFRoOW5MMWpXeDhIYzZRMFpybm9FYlhpUjNDa0U0ZGRranBVenM0blRoakUzYzNuckljWE1USHMzTXJaamI0aTI5UTE5VW90ZkQyRlZPTW9aZGVDTUYrbXVodGtCOStBb1MyK0xRbjB2RzVMWVlWTG04d1llSnJPVnpXdnV5S2IyV3k3U1hwXC8zMlVtaU5oY3p3cHVHTFFncGVpZWpsTk93U0lKVzRQRlpQZmNYTEdUY1dXdEdiSzQ1XC9nZDJLcnM3cWtcL09TeTh4UHB2bDlnQWdySHRSZjVaZHNnMnNWUE5xcGFRcE5CR2RCTjFSNUh0amFBSzMwYnI3Zz0ifQ==
-https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", Astro beIN Sports 1 (b)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png", beIN Sports 2 (b)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yWTNZemN4WVdRdE1EbGhOQzAwT0dObExXSmpNRGN0TlRWaU5ESTFOR0ZpTm1JMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDgxMDkxMSwiaWF0IjoxNzI0MjA2OTExfQ.00zOM4roglj-bC7m2P3lGGQIQG9SEtKoLhifnmIXe34"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTk4MzIwNzQiLCJyZWZyZXNoX3Rva2VuIjoic0FqXC9DZjhWWlBzeHlqY2Rvbm94NDdnU01FRkpLY0ZTOXhGajVQcUJ5bmFnZnlwNVwvZ3pzdXRObTJlaERiXC9aVE1Dd1NmYnYzVFwvRTFTYmVHZE1vSVRzUVpPK0NyalFiYW1oTzNraWxEWDgzSWx5MlY3djV2STBTZktnOXErMzhmNHZicE10RUhmVUYza2xTaTR6QlpiTUhacThhWjU1ZG9aZjAyOCswcTdmYkdRRU1KUTZDSzN4bCt5eW1cL3laMis5dW9YaXZaeFlVc3pQcHFUd0tPa3p4XC9pZzRoaUFsZDdrS3lPcjc2WkFMU0lMaHFER0MxMzVYQzFOMDA1VEJCUkRqY21SaTc1MTh6ZHpZS0RFU2R5ZHdpSHczenA1WTMyWGRXMUFBcWFnVXV5citsZ1krNVRxWmVENWJYNU1TOGViZHBicGxMcXlwcCs4ZGpBMFRBYWV3UTRkSkI0ZjdBcHkxaEk0VWRDMFVOa3BZRlE2ckhJQTNjOE9vR2dZR1hIZmxCSyt0N0RIVnFoRHRPWkhsNzkrUT09In0=
-https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", Astro beIN Sports 2 (b)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png", beIN Sports 3 (b)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yWTNZemN4WVdRdE1EbGhOQzAwT0dObExXSmpNRGN0TlRWaU5ESTFOR0ZpTm1JMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDgxMDkxMSwiaWF0IjoxNzI0MjA2OTExfQ.00zOM4roglj-bC7m2P3lGGQIQG9SEtKoLhifnmIXe34"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://umomgreen.jabicin297.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMDUxODQzMjYiLCJyZWZyZXNoX3Rva2VuIjoicVpVWE43dE54YnJETVZwSGUyYUJuVzlmUk1lVktpQ3dVQWYxTzFjd1FaOGJ3UGVzdXJ6dnlSV2cxblwvU1BrdXAzWXJGNXhOMHE5ckZCTDRQdVoxQ050RnA3S0xZK1wvXC83azF5SjlkbkZJYzVpMUorcGxcL2g2aGEydTU1amVDeWw5bm95S3VDR0l3ZUF0cktyQUZmamJpV2hFbmlZNkJLcUxEVUJ5aDI3U2hzV3ZrclwvVjlJYjk1UVNEYmdaNDBDNU1TUnJrM0ZcL0ptRG12SkZwaEJWOXBNTGFXVlNmaUhcL3J1cFNHUkhtM2ZHeUljSmpPZ09xdldLTDFcL0FZWVZUemp3b1BDTXJzRG5xbXR4RVdVaytwcFhiOW9PSmhrenFrNUtKSytxVjVwQnBET25cL01nU0NUTEVYTkorV094RWJMODRwbHRRQjdwVFNqQVI3ZUVMUm5UbzU3Y1ZQMWtWQWltakdMQktsNlpDU2w2VEFrdUJPbU5xWHFMZHFRbTNkUWFLSW1xRFhCZlVmUk9GNFdBRzdId1ZmZz09In0=
-https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", Astro beIN Sports 3 (b)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://i.ibb.co/B2qFKsf/Untitled-1-20.png", Sportstars 1 - Vpn Indonesia
