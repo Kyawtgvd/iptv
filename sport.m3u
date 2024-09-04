@@ -21,8 +21,12 @@ https://7pal.short.gy/usanetwork
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2181.ts
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png", Sky Sports Premier League (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795086&extension=m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png", Sky Sports Main Event (sff)
+https://stream1.freetv.fun/sky-sport-main-event-1.ctv
 #EXTINF:-1 group-title="Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png", Sky Sports Main Event (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795099&extension=m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Football (sff)
+https://stream1.freetv.fun/sky-sport-football-1.ctv
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", DIGI Sport 1 (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/71457
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png", DIGI Sport 2 (afla)
@@ -83,6 +87,14 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795127&extension
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795131&extension=m3u8
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png", TNT Sports 4 (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795136&extension=m3u8
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 1 (sff)
+https://stream1.freetv.fun/tnt-sport-1-2.ctv
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 2 (sff)
+https://stream1.freetv.fun/tnt-sport-2-2.ctv
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 3 (sff)
+https://stream1.freetv.fun/tnt-sport-3-2.ctv
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 4 (sff)
+https://stream1.freetv.fun/tnt-sport-4-2.ctv
 
 
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 1 (kstv)
@@ -131,6 +143,8 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
 https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png", Now HK Premier Sports PL (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304467
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (pal)
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&stream=1032487&extension=m3u8
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304092
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", Now HK Premier Sports 2 (afla)
@@ -155,6 +169,22 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=m3u8
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension=m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (sff) a
+https://stream1.freetv.fun/608941f2582c1d5190c6766765dad59dc274a2c3d289b01bcda7a5a7cfcd0152.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (sff) b
+https://stream1.freetv.fun/assp-3.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (sff) c
+https://stream1.freetv.fun/astro-supersport-1-4.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (sff) a
+https://stream1.freetv.fun/assp2-6.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (sff) b
+https://stream1.freetv.fun/assp2-5.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) a
+https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
+https://stream1.freetv.fun/assp-3-1.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) c
+https://stream1.freetv.fun/assp3-4.ctv
 
 
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (kstv)
@@ -171,6 +201,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png", SuperSport Premier League (pal)
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&stream=239078&extension=m3u8
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png", SuperSport Premier League (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=125445&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png", SuperSport Football (cdn)
@@ -201,6 +233,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0
 
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWDvdjCFWbD8XFOq7o5V43UQTLHtBaCS5Eg&usqp=CAU", Hub Premier 2 4K (app)
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNvP3JQAEw6dnv1Xp-1AdSC0f3qN4ATMA9A&usqp=CAU", Sky Sports Main Event UHD (sff)
+https://stream1.freetv.fun/sky-sports-main-event-1.ctv
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png", Sky Sport Bundesliga 4K (app)
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86292
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RRkZzjKoZTzDaKZNMx4L6qMIi18mi5cN2Q&s", RMC Sport 1 4K (app)
