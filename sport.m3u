@@ -25,8 +25,6 @@ http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3694.ts
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/10252
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (7pal)
 https://7pal.short.gy/usanetwork
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", CBS Sport Network (epg)
-https://epg.pw/stream/7dbde2fbdc3fda798de493cf23b9a94569b86d619e430c44df7b90d023ad9b70.ctv
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoUSutDhE5nei_ZMJmGmJ1Bv0y3qc0Clb0w&s", CBS Sport Golazo Network (reals)
 http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/660925.ts
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (fl2)
@@ -59,14 +57,6 @@ https://stream1.freetv.fun/tnt-sport-2-2.ctv
 https://stream1.freetv.fun/tnt-sport-3-2.ctv
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 4 (sff)
 https://stream1.freetv.fun/tnt-sport-4-2.ctv
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458654&extension=m3u8
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png", TNT Sports 2 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458653&extension=m3u8
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png", TNT Sports 3 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458652&extension=m3u8
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png", TNT Sports 4 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458651&extension=m3u8
 
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png", Sky Sports Premier League (reals)
@@ -85,30 +75,6 @@ https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795086&extension=m3u8
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png", Sky Sports Main Event (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795099&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Premier League (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458669&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Main Event (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458658&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Football (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458660&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports News (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458681&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Action (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458664&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Arena (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458663&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Mix (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458671&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Tennis (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458814&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Golf (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458659&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Cricket (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458662&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports F1 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458661&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Racing (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458668&extension=m3u8
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Premier League (myte)
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/263
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Main Event (myte)
@@ -185,14 +151,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792593&extension=m3u8
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792594&extension=m3u8
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (pop) a
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=282675&extension=ts
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (pop) a
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1114584&extension=ts
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (pop) b
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=155972&extension=ts
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (pop) b
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=282676&extension=ts
 
 
 #EXTINF:-1 group-title="Romania Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", DIGI Sport 1 (afla)
@@ -259,16 +217,6 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=m3u8
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (sff) a
-https://stream1.freetv.fun/608941f2582c1d5190c6766765dad59dc274a2c3d289b01bcda7a5a7cfcd0152.ctv
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (sff) b
-https://stream1.freetv.fun/assp-3.ctv
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (sff) c
-https://stream1.freetv.fun/astro-supersport-1-4.ctv
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (sff) a
-https://stream1.freetv.fun/assp2-6.ctv
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (sff) b
-https://stream1.freetv.fun/assp2-5.ctv
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) a
 https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
@@ -315,8 +263,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125443&uid=7245&deviceMac=00:1A:79:B0
 https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png", Now HK Premier Sports PL (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304467
-#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (pal)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&stream=1032487&extension=m3u8
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304092
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", Now HK Premier Sports 2 (afla)
@@ -345,8 +291,6 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156024&exten
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1114579&extension=ts
 
 
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWDvdjCFWbD8XFOq7o5V43UQTLHtBaCS5Eg&usqp=CAU", Hub Premier 2 4K (app)
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNvP3JQAEw6dnv1Xp-1AdSC0f3qN4ATMA9A&usqp=CAU", Sky Sports Main Event UHD (sff)
 https://stream1.freetv.fun/sky-sports-main-event-1.ctv
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png", Sky Sport Bundesliga 4K (app)
@@ -355,6 +299,8 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86292
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86265
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg", DIGI Sport 4K (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/90750
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWDvdjCFWbD8XFOq7o5V43UQTLHtBaCS5Eg&usqp=CAU", Hub Premier 2 4K (app)
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg", Eurosport 4K (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/281130
 
@@ -371,16 +317,10 @@ http://41.205.93.154/BBCONE/index.m3u8
 http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three (41)
 http://41.205.93.154/BBCTHREE/index.m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/SPORTS18_logo.svg", Sports 18 (pop)
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104676&extension=ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png", PPTV HD36 (doo)
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png", Eurosports 1 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458644&extension=m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png", Eurosports 2 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458648&extension=m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png", Eurosports 1 (guja)
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=13986&extension=ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png", Eurosports 2 (guja)
