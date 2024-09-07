@@ -19,6 +19,14 @@ https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (cdn2)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125429.ts
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (cdn2)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125430.ts
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (cdn2)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125431.ts
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (cdn2)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125432.ts
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (myte)
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (myte)
@@ -351,8 +359,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47629.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47630.ts
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Variety 4 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47631.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png", SuperSport Premier League (pal)
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&stream=239078&extension=m3u8
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png", SuperSport Premier League (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=125445&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png", SuperSport Football (cdn)
@@ -407,14 +413,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", Sony Ten Sport 5 (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156017&extension=ts
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156010&extension=ts
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Ten Sport 3 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156024&extension=ts
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png", Sony Ten Sport 4 (pop)
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1114579&extension=ts
 
 
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNvP3JQAEw6dnv1Xp-1AdSC0f3qN4ATMA9A&usqp=CAU", Sky Sports Main Event UHD (sff)
