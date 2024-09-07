@@ -247,6 +247,14 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/14857
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/281
 
 
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (lord)
+http://live.lordstreams.co:8080/832396166/1982148236/527497
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-2.png", ITV 2 (lord)
+http://live.lordstreams.co:8080/832396166/1982148236/527498
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-3.png", ITV 3 (lord)
+http://live.lordstreams.co:8080/832396166/1982148236/527499
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-4.png", ITV 4 (lord)
+http://live.lordstreams.co:8080/832396166/1982148236/527500
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47784.ts
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-2.png", ITV 2 (kstv)
