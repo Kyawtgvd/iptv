@@ -273,6 +273,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47859.ts
 
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/12554.ts
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (kstv)
+http://kstv.us:8080/live/tH300gvHff/8606073792/12553.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (cdn)
