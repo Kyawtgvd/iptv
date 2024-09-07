@@ -19,18 +19,36 @@ https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (reals)
-http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3694.ts
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (xip)
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/10252
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (7pal)
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoUSutDhE5nei_ZMJmGmJ1Bv0y3qc0Clb0w&s", CBS Sport Golazo Network (reals)
-http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/660925.ts
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (fl2)
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", Fox Sport 2 (fl2)
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (voo)
+http://vo01.mohdtv.com:8880/voby5019/58746247/59220
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (voo)
+http://vo01.mohdtv.com:8880/voby5019/58746247/59219
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (voo)
+http://vo01.mohdtv.com:8880/voby5019/58746247/59218
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (voo)
+http://vo01.mohdtv.com:8880/voby5019/58746247/59217
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (gtv)
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension=m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (gtv)
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension=m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (gtv)
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (gtv)
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension=m3u8
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) a
+https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
+https://stream1.freetv.fun/assp-3-1.ctv
+#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) c
+https://stream1.freetv.fun/assp3-4.ctv
 
 
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 1 (reals)
@@ -114,7 +132,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48447.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 6 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48448.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN ELEVEN 1 (reals)
-http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/925.ts
+http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/926.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN ELEVEN 2 (reals)
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/923.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN ELEVEN 3 (reals)
@@ -151,34 +169,6 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/167743
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/167744
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 4 (xip)
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
-
-
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (cdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792593&extension=m3u8
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792594&extension=m3u8
-
-
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1224
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-2.png", ITV 2 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1246
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-3.png", ITV 3 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1247
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-4.png", ITV 4 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1250
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1203
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1216
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1273
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HO6zwy5eRVcwshcbv4-UJQB-bNylaV-tYQ&s", BBC Four (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1245
 
 
 #EXTINF:-1 group-title="Romania Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", DIGI Sport 1 (afla)
@@ -221,36 +211,42 @@ https://top2.mizhls.ru/top2/premium585/index.m3u8
 https://top2.mizhls.ru/top2/premium586/index.m3u8
 
 
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (myte)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (myte)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (myte)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (myte)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (voo)
-http://vo01.mohdtv.com:8880/voby5019/58746247/59220
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (voo)
-http://vo01.mohdtv.com:8880/voby5019/58746247/59219
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (voo)
-http://vo01.mohdtv.com:8880/voby5019/58746247/59218
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (voo)
-http://vo01.mohdtv.com:8880/voby5019/58746247/59217
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) a
-https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
-https://stream1.freetv.fun/assp-3-1.ctv
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) c
-https://stream1.freetv.fun/assp3-4.ctv
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (reals)
+http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3694.ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (xip)
+http://xxip25.top:8080/tamikahomecare/tamikahomecare/10252
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (7pal)
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoUSutDhE5nei_ZMJmGmJ1Bv0y3qc0Clb0w&s", CBS Sport Golazo Network (reals)
+http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/660925.ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (fl2)
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", Fox Sport 2 (fl2)
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1224
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-2.png", ITV 2 (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1246
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-3.png", ITV 3 (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1247
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-4.png", ITV 4 (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1250
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (41)
+http://41.205.93.154/BBCONE/index.m3u8
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (41)
+http://41.205.93.154/BBCTWO/index.m3u8
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three (41)
+http://41.205.93.154/BBCTHREE/index.m3u8
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1203
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1216
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1273
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HO6zwy5eRVcwshcbv4-UJQB-bNylaV-tYQ&s", BBC Four (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1245
 
 
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (kstv)
@@ -267,14 +263,24 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png", Now HK Premier Sports PL (afla)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304467
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (afla)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304092
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", Now HK Premier Sports 2 (afla)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304091
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now HK Premier Sports PL (sxj)
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png", Now HK Sports Plus (sxj)
+https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
+
+
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png", SuperSport Premier League (pal)
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:B4:6F:16&stream=239078&extension=m3u8
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png", SuperSport Premier League (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=125445&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png", SuperSport Football (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=125439&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png", SuperSport Football (epg)
-https://epg.pw/stream/285812a7b73bf4a8a916f8aa96a76f233b6a8aadfa394d3d1848e2da2c0f1ce6.ctv
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png", SuperSport Laliga (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=125442&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png", SuperSport PSL (cdn)
@@ -287,16 +293,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125436&uid=7245&deviceMac=00:1A:79:B0
 http://tv.cloudcdn.me:80/live.ts?channelId=125443&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
-#EXTINF:-1 group-title="Now Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now HK Premier Sports PL (sxj)
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
-#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png", Now HK Premier Sports PL (afla)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304467
-#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (afla)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304092
-#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", Now HK Premier Sports 2 (afla)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304091
-#EXTINF:-1 group-title="Now Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png", Now HK Sports Plus (sxj)
-https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (cdn)
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (gtv)
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792593&extension=m3u8
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (gtv)
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792594&extension=m3u8
 
 
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (tga) - No Vpn
@@ -345,12 +349,6 @@ http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg", Play Sports 3 (103)
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (41)
-http://41.205.93.154/BBCONE/index.m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (41)
-http://41.205.93.154/BBCTWO/index.m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three (41)
-http://41.205.93.154/BBCTHREE/index.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png", PPTV HD36 (doo)
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MU TV (bco)
