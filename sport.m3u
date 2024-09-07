@@ -311,6 +311,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304092
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", Now HK Premier Sports 2 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304091
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png", Now HK Premier Sports PL (afla)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304467
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 (afla)
@@ -365,14 +369,22 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125436&uid=7245&deviceMac=00:1A:79:B0
 http://tv.cloudcdn.me:80/live.ts?channelId=125443&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=801
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=802
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (myte)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=801
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (tga) - No Vpn
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=802
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (afla)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/82628
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (afla)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16619
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (gtv)
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792593&extension=m3u8
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (gtv)
