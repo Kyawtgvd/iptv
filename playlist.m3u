@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612", Setanta Sports 1 (Ukaraine)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
-
 #EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -169,6 +163,55 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 1 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 2 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 3 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_03/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 4 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_04/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 5 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_05/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 6 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_06/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 7 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_07/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 8 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_08/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 9 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_09/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 10 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_10/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 11 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_11/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 12 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 13 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 14 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 15 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 16 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 17 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 18 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 19 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_19/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 20 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_20/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 21 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_21/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 22 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_22/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 23 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_23/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 24 (only Event) - Vpn UK
+https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_24/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png", Mixed Sports Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -1209,6 +1252,29 @@ https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 
 
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One - Vpn UK
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two - Vpn UK
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three - Vpn UK
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HO6zwy5eRVcwshcbv4-UJQB-bNylaV-tYQ&s", BBC Four - Vpn UK
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button One - Vpn UK
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzaemZ6XAPA2VgFlh11-Sfy2w5lTPJnhPWw&usqp=CAU", BBC 1 UHD (only Event) - Vpn UK
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzaemZ6XAPA2VgFlh11-Sfy2w5lTPJnhPWw&usqp=CAU", BBC 2 UHD (only Event) - Vpn UK
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzaemZ6XAPA2VgFlh11-Sfy2w5lTPJnhPWw&usqp=CAU", BBC 3 UHD (only Event) - Vpn UK
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzaemZ6XAPA2VgFlh11-Sfy2w5lTPJnhPWw&usqp=CAU", BBC 4 UHD (only Event) - Vpn UK
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzaemZ6XAPA2VgFlh11-Sfy2w5lTPJnhPWw&usqp=CAU", BBC 5 UHD (only Event) - Vpn UK
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+
+
+
 #EXTINF:-1 group-title="SSC SPORTS⭐" tvg-logo="https://i.ibb.co/G37Y21X/ssc1.png", SSC 1 (Saudi Arabia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -1376,6 +1442,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
 https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612", Setanta Sports 1 (Ukraine)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png", GO3 Sport 1 (Lithuania)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
