@@ -1,542 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://iili.io/JhkZGcl.png" group-title="Test",Sky Sport Uno
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master.mpd
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Sky Sports Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Sky Sports Main Event (15)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Sky Sports Main Event (18)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
-https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Sky Sports Cricket
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00053ac1e9b1231eed3eb4e3540b3ae1:0f03d8541826af3d9acbac975d751165
-https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Sky Sports Mix
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00052237a76cdb0eb5fcbccf4c16f658:4e42c0a0ecf6e534426fbb21525c1911
-https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Sky Sports F1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005c0635a06a943911f666abcef3923:749cae7fc7f350be6ba7400f11150ea9
-https://linear005-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Sky Sports Football
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005c37ab85893a379c1e1e5ed60fcf0:b60a9aa6c55026adfc3f47136ce64924
-https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd
-
-#EXTINF:-1 group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000516903d55e9706d1661c489ee94da:acf37edb85d8a99a8cfb8ed5e3e9acf2
-http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsarena)/manifest_720.mpd
-
-#EXTINF:-1 group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports Golf 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0005f065b6b710a9d4769fb357e2027b:f26593b44feb0a043b1d6e090ce27a75
-https://linear003-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720.mpd
-
-#EXTINF:-1 group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports Tennis
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00032023ad4896139b22a071d6c1183c:e0c6c1454bb792b843f085be9999c9da
-https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720.mpd
-
-#EXTINF:-1 group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports Tennis
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00032023ad4896139b22a071d6c1183c:e0c6c1454bb792b843f085be9999c9da
-https://linear033-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720-120.mpd
-
-#EXTINF:-1 group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports News
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00057bfb9cf2fc40b5ed61f9c8a41d54:cb9908093e35e3c3f7db06f55913cce0
-https://linear030-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsnews)/manifest_720.mpd
-
-#EXTINF:-1 group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000397ec797bffa6a7d2f5f14bf3f90b:644bb73f541fb127d218ddfc0fccb38f
-https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd
-
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Premier Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="#ðŸ‡¬ðŸ‡§ UK Sport ðŸ‡¬ðŸ‡§#", Premier Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
-https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
-
-
-#EXTINF:-1 group-title="Sky Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-https://live2-ott.izzigo.tv/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
-
-#EXTINF:-1 group-title="Sky Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
-
-#EXTINF:-1 group-title="Fox Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/27a65c99f3dcb016083063ecb7129770/foxsports1.png", Fox Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-
-#EXTINF:-1 group-title="Fox Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/27a65c99f3dcb016083063ecb7129770/foxsports1.png", Fox Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-
-#EXTINF:-1 group-title="Fox Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/27a65c99f3dcb016083063ecb7129770/foxsports1.png", Fox Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=23986dae03fa883ed8e489cbf70f9ec3:6a42c42732a9dd1da1205971b2c5c535
-https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
-
-#EXTINF:-1 group-title="Fox Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/27a65c99f3dcb016083063ecb7129770/foxsports1.png", Fox Sports Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
-https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
-
-
-#EXTINF:-1 group-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" group-title="Polsat Sport - VPN" , Polsat Sport 1 Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
-https://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
-
-#EXTINF:-1 group-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" group-title="Polsat Sport - VPN" , Polsat Sport 2 Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
-http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
-
-#EXTINF:-1 group-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" group-title="Polsat Sport - VPN" , Polsat Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
-https://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
-
-#EXTINF:-1 group-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" group-title="Polsat Sport - VPN" , Polsat Sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
-https://lb2-e2-21.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
-
-
-#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-id="DAZN1HD.uk" tvg-logo="https://rb.gy/98jmt0" group-title="DAZN" , DAZN 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-045/stream.mpd
-
-#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-id="" tvg-logo="https://rb.gy/98jmt0" group-title="DAZN" , DAZN ELEVEN 1 Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
-
-#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-id="" tvg-logo="https://rb.gy/98jmt0" group-title="DAZN" , DAZN ELEVEN 1 NL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="#ðŸ‡¸ðŸ‡ª Viasat Sports ðŸ‡¸ðŸ‡ª" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",NO - TV2 Sport1
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="#ðŸ‡¸ðŸ‡ª Viasat Sports ðŸ‡¸ðŸ‡ª" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",NO - TV2 Sport Premium
-https://ch11-hls-live.akamaized.net/out/u/433127.mpd
-
-
-#EXTINF:-1 group-title="#ðŸŒ EPL with VPN ðŸŒ#""  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png",ðŸ‡©ðŸ‡ª Sky Sport Bundesliga UHD ðŸ‡©ðŸ‡ª
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000bae90050eb69303c736aa44feec31:5cb4e747538e2e234b51b4ef9ab248a4
-https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd
-
-#EXTINF:-1 group-title="#ðŸŒ EPL with VPN ðŸŒ#"  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sport Premier League DE.de
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000bd7ca09c1d2ccdb12614b6a7525ed:79ddb65f0cf9bf112c501a1d0d3a62d6
-https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/036371-50/index_stereo.mpd
-
-#EXTINF:-1 group-title="#ðŸŒ EPL with VPN ðŸŒ#"  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", ðŸ‡©ðŸ‡ª Sky Sport Top Event ðŸ‡©ðŸ‡ª
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000b09ba46c7b52d430e825ce69a91bd:e71ffe9217bd6d5ce7656582977264f7
-https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="#ðŸŒ EPL with VPN ðŸŒ#", ðŸ‡¦ðŸ‡º Optus Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
-
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" group-title="Setanta Sports", SETANTA SPORT 1 ðŸ‡±ðŸ‡¹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://i.ibb.co.com/kMGj9Hx/skycinemaaction.png" group-title="UK Movies", Sky Cinema Action HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
-https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-logo="https://i.ibb.co.com/3rK6d3x/skycinemaanimation.png" group-title="UK Movies", Sky Cinema Animation
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
-https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaFamilyHD.uk" tvg-logo="https://i.ibb.co.com/tJ3QRLs/skycinemafamily.png" group-title="UK Movies", Sky Cinema Family HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
-https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://i.ibb.co.com/hV0DwNX/skycinehits.png" group-title="UK Movies", Sky Cinema Hits HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009b55ec9440c27db869dd4efec5ff0:457c483c9606553d2461ccf27732f1c3
-https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemahits)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://i.ibb.co.com/bLqD4Mv/skycinepremiere.png" group-title="UK Movies", Sky Cinema Premiere HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= 00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
-https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaSelectHD.uk" tvg-logo="https://i.ibb.co.com/djD6HLf/skycinemaselect.png" group-title="UK Movies", Sky Cinema Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00094829ed07ef5ce4c054a4ee32e6a3:8332216848b06f3a6da662441cc2afb9
-https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaselect)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaSciFiHorrorHD.uk" tvg-logo="https://i.ibb.co.com/Nt8P6xr/skycinemascifihorror.png" group-title="UK Movies", Sky Cinema Sci Fi and Horror HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007c076bbcea27bdc06d9cf3d2ae546:564cfbb51a3c935b01bea50df5649ba8
-https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemascifi)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://i.ibb.co.com/1fYKTWM/skycinematriler.png" group-title="UK Movies", Sky Cinema Thriller HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007e54edb6bc28d1e657138c133cfcb:16dbe4921c7a364db8703eacbaecbd8c
-https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemathriller)/manifest_720.mpd
-
-
-#EXTINF:-1 tvg-id="SkySciFi.uk" tvg-logo="https://i.ibb.co.com/vJ4RDmH/skyscifi.png" group-title="UK Movies", Sky Sci-Fi HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00070f1575f10d7ce03963ca758ba831:a10732c2258e99c55f50c4e942229bd9
-https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skyscifi)/manifest_720.mpd
-
-
-=============================
-
-
-
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCFour.uk",BBC Four HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCNews.uk",BBC News (720p)
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneChannelIslands.uk",BBC One Channel Islands (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneEast.uk",BBC One East (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneEastMidlands.uk",BBC One East Midlands (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneYorkshire.uk",BBC One East Yorkshire (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneLondon.uk",BBC One London (720p) [Geo-blocked]
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneLondon.uk",BBC One London (720p) [Geo-blocked]
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneLondon.uk",BBC One London (720p) [Geo-blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneNorthEastCumbria.uk",BBC One North East (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneNorthWest.uk",BBC One North West (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneNorthernIreland.uk",BBC One Northern Ireland HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneNorthernIreland.uk",BBC One Northern Ireland HD (720p) [Geo-blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneScotland.uk",BBC One Scotland HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneScotland.uk",BBC One Scotland HD (720p) [Geo-blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneSouth.uk",BBC One South (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneSouthEast.uk",BBC One South East (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneSouthWest.uk",BBC One South West (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneWales.uk",BBC One Wales (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneWales.uk",BBC One Wales (720p) [Geo-blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneWest.uk",BBC One West (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneWestMidlands.uk",BBC One West Midlands (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCOneYorkshireLincolnshire.uk",BBC One Yorks (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton1.uk",BBC Red Button 1 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton2.uk",BBC Red Button 2 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton3.uk",BBC Red Button 3 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_03/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton4.uk",BBC Red Button 4 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_04/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton5.uk",BBC Red Button 5 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_05/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton6.uk",BBC Red Button 6 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_06/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton7.uk",BBC Red Button 7 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_07/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton8.uk",BBC Red Button 8 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_08/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton9.uk",BBC Red Button 9 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_09/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton10.uk",BBC Red Button 10 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_10/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton11.uk",BBC Red Button 11 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_11/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton12.uk",BBC Red Button 12 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton13.uk",BBC Red Button 13 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton14.uk",BBC Red Button 14 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton15.uk",BBC Red Button 15 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton16.uk",BBC Red Button 16 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton17.uk",BBC Red Button 17 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton18.uk",BBC Red Button 18 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton19.uk",BBC Red Button 19 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_19/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton20.uk",BBC Red Button 20 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_20/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton21.uk",BBC Red Button 21 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_21/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton22.uk",BBC Red Button 22 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_22/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton23.uk",BBC Red Button 23 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_23/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCRedButton24.uk",BBC Red Button 24 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_24/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="",BBC Red Button One (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCScotland.uk",BBC Scotland HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCThree.uk",BBC Three HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCThree.uk",BBC Three HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCThree.uk",BBC Three HD (720p) [Geo-blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCTwoEngland.uk",BBC Two HD (720p) [Geo-blocked]
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCTwoEngland.uk",BBC Two HD (720p) [Geo-blocked]
-https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCTwoEngland.uk",BBC Two HD (720p) [Geo-blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCTwoNorthernIreland.uk",BBC Two Northern Ireland HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCTwoNorthernIreland.uk",BBC Two Northern Ireland HD (720p) [Geo-blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCTwoWales.uk",BBC Two Wales (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCUHD1.uk",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCUHD2.uk",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCUHD3.uk",BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCUHD4.uk",BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="Bbc" tvg-id="BBCUHD5.uk",BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
-
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" group-title="Setanta Sports", SETANTA SPORTS 1 (Russia)
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://iili.io/d9BEhyQ.png" group-title="UK",BBC One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" group-title="Setanta Sports", SETANTA SPORTS 2 (Russia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-
-
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c7ece0bc4b1cdbe78497cb85e4c268e:e7f77a1b82fb8ea8c06e2aa886c521ca
-https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml/.mpd
-
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
-https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
-
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd
 
-
-#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sport Top Event - Vpn Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000b09ba46c7b52d430e825ce69a91bd:e71ffe9217bd6d5ce7656582977264f7
-https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd
-
-#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sport EPL - Vpn Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000bd7ca09c1d2ccdb12614b6a7525ed:79ddb65f0cf9bf112c501a1d0d3a62d6
-https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/036371-50/index_stereo.mpd
-
-#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sport Bundesliga - Vpn Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=000bae90050eb69303c736aa44feec31:5cb4e747538e2e234b51b4ef9ab248a4
-https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd
-
-
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 1 - Vpn Australia
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://iili.io/d9BEwuV.png" group-title="UK",BBC Two
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4af943b2626c4eb2b3a49f412204ce59:d62226a1df341e526e39a38501050048
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd
 
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 2 - Vpn Australia
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://iili.io/d9lwQUB.png" group-title="UK",BBC Three
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
-https://linear.aws.optusvideo.tv/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd
 
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 3 - Vpn Australia
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://iili.io/d9lwtHP.png" group-title="UK",BBC Four
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
-https://linear.aws.optusvideo.tv/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
 
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 4 - Vpn Australia
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://iili.io/d9HZINn.png" group-title="UK",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
-https://linear.aws.optusvideo.tv/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 5 - Vpn Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
-https://linear.aws.optusvideo.tv/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="UK",ITV1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 6 - Vpn Australia
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://iili.io/d9lNDrl.png" group-title="UK",ITV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f95b305610c54ef0a2aae0647456c477:ad60099095daeb7d1181edb22c4af590
-https://linear.aws.optusvideo.tv/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=cf2957d9327e42eebde873dcb48a7b7f:4ef5e263bbaf80d8daa9593d420d33d0
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd
 
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 7 - Vpn Australia
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://iili.io/d9lNt14.png" group-title="UK",ITV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7659939fbb44194acb82baff73af8fc:f165f4f2e81772c8faf7f95df0fbfef0
-https://linear.aws.optusvideo.tv/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=272e9f1e2c83412cab74056d9d53bab3:8d1e6569c78dd567db5f69c84e776285
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd
 
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 8 - Vpn Australia
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://iili.io/d9lNZBf.png" group-title="UK",ITV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c74521542a2455a9f60157f114bab4d:caecb6108d7a2efd26e76feb635730db
-https://linear.aws.optusvideo.tv/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 9 - Vpn Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f07c62ce5020456dacd2e59228d176e5:e3a032681683c4d9cba2140a694324ce
-https://linear.aws.optusvideo.tv/v7/OptusSport9/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 10 - Vpn Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e70fa19da07042b2a5baf7d576338661:781b714f1503c5b7c60f3fe3c1922577
-https://linear.aws.optusvideo.tv/v7/OptusSport10/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 11 - Vpn Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f78f7e32001e4eea8365d7c22595a048:19d2c7da1312f547de174dbfe2f00b69
-https://linear.aws.optusvideo.tv/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 group-title="OPTUS SPORTS⭐" tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", Optus Sport 12 - Vpn Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=744d45c6dbe64b48a4c93ad96b89dcf0:e637b029d9d8288f2fd272219914c60a
-https://linear.aws.optusvideo.tv/v7/OptusSport12/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=2b169fb2c3214e429b66eb2e19fcafdf:90a98753d8f41ad08906243230975ff1
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
 
 
 #EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1 (web)
