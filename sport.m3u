@@ -323,7 +323,7 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125428.ts
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s", beIN Sports Xtra en Espanol (d3)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png", beIN Sports USA (prod)
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png", beIN Sports Xtra English (prod)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png", beIN Sports Xtra en Espanol (prod)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
