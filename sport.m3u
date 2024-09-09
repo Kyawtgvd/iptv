@@ -191,6 +191,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/15905.ts
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/10252
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (7pal)
 https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network (fl2)
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoUSutDhE5nei_ZMJmGmJ1Bv0y3qc0Clb0w&s", CBS Sport Golazo Network (reals)
 http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/660925.ts
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (lord)
@@ -203,10 +205,14 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png", Universo (streamsy)
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/329
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png", Univision (streamsy)
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/14857
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png", Telemundo (streamsy)
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/281
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png", Univision (streamsy)
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/14857
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png", Univision (23)
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniMás.svg/960px-Logo_UniMás.svg.png", Unimas (23)
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
 
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (lord)
@@ -239,6 +245,12 @@ http://41.205.93.154/BBCONE/index.m3u8
 http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three (41)
 http://41.205.93.154/BBCTHREE/index.m3u8
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One - Vpn UK
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two - Vpn UK
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three - Vpn UK
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (tga) - No Vpn
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1203
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (tga) - No Vpn
@@ -307,9 +319,13 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/102481.ts
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125427.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports3.png", beIN Sports English 3 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125428.ts
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png", beIN Sports Xtra English (prod)
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg", beIN Sports USA (fl2)
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s", beIN Sports Xtra en Espanol (d3)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png", beIN Sports USA (prod)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png", beIN Sports Xtra Espanol (prod)
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png", beIN Sports Xtra en Espanol (prod)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports English 1 (web)
 https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -373,7 +389,7 @@ https://webhdrunns.mizhls.ru/lb/premium492/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports USA (web)
 https://webhdrunns.mizhls.ru/lb/premium425/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports Espanol (web)
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports en Espanol (web)
 https://webhdrunns.mizhls.ru/lb/premium372/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
