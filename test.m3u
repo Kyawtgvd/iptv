@@ -172,6 +172,7 @@ https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
+
 #EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/1600px-Sport_TV1_%282023%29.svg.png", SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
