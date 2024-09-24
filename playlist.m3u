@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
