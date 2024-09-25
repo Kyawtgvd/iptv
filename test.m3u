@@ -1,3 +1,9 @@
+#EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeq03y3J-y_R3hDQS5BIujrhhjy6S7LagBQ&usqp=CAU", DAZN 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHA6Ly9kMzZmcnJqcGdrajZoYy5hczViNy5uZXQvVFZENDUyMy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI3Mjc0NjU1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzI0NTg1NX19fV0sICJVc2VyVG9rZW4iOiIwMDAwMDAwMDAwMDAwMTAxNzQxNzIwMjQwOTI1MTQzMDM4MTQxOCJ9;CloudFront-Signature=RMsUOFv0MuamMaOo6C7n4NgMS-TsAaUYcGVbBTIl0ETmvUjFdHBTQvaBFC3uGytBbgDF4XGh7jpQ3uB5KVdUPAyeG5nYnC1P2CjmcuCYSy6G5U5PJ7Tds4ufU9miefztTm~634IReCI~zOq7MfHV1hwdz1M9hszg5-7mCRYNAGHlgJG8vCpIkwdOf3GjhtesF4Ur-XYOcLfj19zRP7nxD0Z2oUDq85cIgU74yEuwBug6X6Wzk-FY1XuFifU~IZeB9IiHb4WIVHbqZMvH~RZRW07llyse12eAMlagahGl4ZPsh5~sh1B8A~HRRUG0wy52a~1kF2KVoiiYKGAG0i8h8Q__;CloudFront-Key-Pair-Id=K3B2C439QUBCSQ
+http://d36frrjpgkj6hc.as5b7.net:80/TVD4523/index.mpd
+
+
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/f0/bf/71/f0bf711c06447746faba428ebd5d9cf5.jpg", DAZN LIVE EVENT
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/a3/c2/8f/a3c28f93c660b3b2c018a88d5f12cf41.jpg", DAZN LIVE EVENT
