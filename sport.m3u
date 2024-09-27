@@ -43,14 +43,6 @@ https://stream1.freetv.fun/tnt-sport-2-2.ctv
 https://stream1.freetv.fun/tnt-sport-3-2.ctv
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 4 (sff)
 https://stream1.freetv.fun/tnt-sport-4-2.ctv
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795123&extension=m3u8
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png", TNT Sports 2 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795127&extension=m3u8
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png", TNT Sports 3 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795131&extension=m3u8
-#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png", TNT Sports 4 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795136&extension=m3u8
 
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Premier League (myte)
@@ -79,20 +71,8 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/265
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163132
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Premier League (epg)
 https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Main Event (epg)
-https://epg.pw/stream/40ad3049d0aa76b6b54476bb20a19c0d715c2f09aa745b955229531c0afb8fb9.ctv
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Football (epg)
-https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Premier League (reals)
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2181.ts
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Main Event (sff)
-https://stream1.freetv.fun/sky-sport-main-event-1.ctv
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Football (sff)
-https://stream1.freetv.fun/sky-sport-football-1.ctv
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Premier League (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795086&extension=m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Main Event (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795099&extension=m3u8
 
 
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 1 (kstv)
@@ -147,40 +127,6 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/167744
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
 
 
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", DIGI Sport 1 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium400/index.m3u8
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png", DIGI Sport 2 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium401/index.m3u8
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png", DIGI Sport 3 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium402/index.m3u8
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png", DIGI Sport 4 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium403/index.m3u8
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Primasport-logo.png", Prima Sport 1 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium583/index.m3u8
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Primasport-logo.png", Prima Sport 2 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium584/index.m3u8
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Primasport-logo.png", Prima Sport 3 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium585/index.m3u8
-#EXTINF:-1 group-title="Romania Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Primasport-logo.png", Prima Sport 4 (web)
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://top2.mizhls.ru/top2/premium586/index.m3u8
-
-
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (lord)
 http://live.lordstreams.co:8080/832396166/1982148236/3694
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (reals)
@@ -215,14 +161,6 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
 
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/527497
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-2.png", ITV 2 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/527498
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-3.png", ITV 3 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/527499
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-4.png", ITV 4 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/527500
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47784.ts
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-2.png", ITV 2 (kstv)
@@ -289,19 +227,9 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59219
 http://vo01.mohdtv.com:8880/voby5019/58746247/59218
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (voo)
 http://vo01.mohdtv.com:8880/voby5019/58746247/59217
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=m3u8
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension=m3u8
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) a
 https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
 #EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
-https://stream1.freetv.fun/assp-3-1.ctv
-#EXTINF:-1 group-title="Astro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) c
 https://stream1.freetv.fun/assp3-4.ctv
 
 
@@ -313,12 +241,6 @@ http://live.lordstreams.co:8080/832396166/1982148236/659437
 http://kstv.us:8080/live/tH300gvHff/8606073792/12554.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/12553.ts
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/102481.ts
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125427.ts
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports3.png", beIN Sports English 3 (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125428.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg", beIN Sports USA (fl2)
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s", beIN Sports Xtra en Espanol (d3)
@@ -451,10 +373,6 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=801
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (tga) - No Vpn
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=802
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792593&extension=m3u8
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (gtv)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=792594&extension=m3u8
 
 
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
@@ -487,18 +405,8 @@ http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18919
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png", Sky Sport Bundesliga 4K (app)
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86292
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RRkZzjKoZTzDaKZNMx4L6qMIi18mi5cN2Q&s", RMC Sport 1 4K (app)
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86265
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://media.licdn.com/dms/image/sync/v2/D4E27AQGD4fyY7XlIYA/articleshare-shrink_800/articleshare-shrink_800/0/1723601886827?e=2147483647&v=beta&t=gWtsbXXFWvvqx3owqu9Qnx0Ym28HijmiJwhGfHN_E0g", Rush Sports UHD (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=796
 
 
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg", Play Sports 1 (103)
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg", Play Sports 2 (103)
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg", Play Sports 3 (103)
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png", PPTV HD36 (doo)
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MU TV (bco)
@@ -507,10 +415,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 http://kstv.us:8080/live/tH300gvHff/8606073792/47854.ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png", Eurosports 2 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47855.ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png", Eurosports 1 (guja)
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=13986&extension=ts
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png", Eurosports 2 (guja)
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=13881&extension=ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png", Fight Box
@@ -527,8 +431,6 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 https://7pal.short.gy/ufc247
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png", WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp", Swerve Combat
-https://bit.ly/47jr7N2?profile=inspirationlivetv.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp", Impact! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.ibb.co.com/JzfHXNp/motorvision.png", MOTORVISION (cdn)
@@ -541,20 +443,10 @@ https://7pal.short.gy/espn2
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png", Sportsnet 360
 https://7pal.short.gy/sptsnet360
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png", CNBC (reals)
-http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/686812.ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS_Sport_Network
 https://7pal.short.gy/cbssptnw
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/XKBiWym.jpg", USA:NFL_Network
-https://7pal.short.gy/nflnw
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png", USA:NHL_Network
-https://7pal.short.gy/nhlnw
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/ZGrahiw.png", USA:MLB_Network
-https://7pal.short.gy/mlbnw
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/Nq4lPP4.png", USA:WWE_Network
 https://7pal.short.gy/wwenw
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/OLFLQi1.jpg", USA:MSG
-https://7pal.short.gy/msgusa
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8W9Knw7c9-l4UMOfnFGQIBCcmgbNKz1no2pxMJ7urd0tqqMU4EUKAnca&s=10", Aljazeera News
@@ -639,42 +531,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.ibb.co.com/jZ2NVqN/outdoorch.png", OUTDOOR CHANNEL
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/animalplanet.png", Animal Planet (IN)
-http://humsab.xyz/IN_ANIMALHD/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discovery.png", Discovery Channel (IN)
-http://humsab.xyz/IN_DiscoveryFhd/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png", National Geographic HD (IN)
-http://humsab.xyz/IND_NationalGeoHD/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png", Sony BBC Earth (IN)
-http://humsab.xyz/IN_SONYBBCHD/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo.png", HBO
-http://humsab.xyz/IN_HB/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/hbo.png", HBO 2
-http://humsab.xyz/IN_HB2/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/moviesnow.png", Movies Now
-http://humsab.xyz/IN_NOW/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/epic.png", Epic TV
-http://ekdilhai.pro/IN_EPIC/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/andflix.png", & Flix
-http://humsab.xyz/IN_FLIX/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/&privé_HD.svg/1200px-&privé_HD.svg.png", & Prive
-http://humsab.xyz/IN_PRIVEHD/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/comedycentral.png", Comedy Central
-http://humsab.xyz/IN_CD/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorsinfinity.png", Colors Infinity
-http://humsab.xyz/IN_IN/index.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cartoonnetwork.png", Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/pogo.png", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonypix.png", Sony PIX
-http://humsab.xyz/IN_SPIX/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonypal.png", Sony Pal
-http://ekdilhai.pro/IND_SONYPALHd/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysab.png", Sony Sab
-http://humsab.xyz/IN_SABG/index.m3u8
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeecafe.png", Zee Cafe
-http://humsab.xyz/IN_ZEECAFE/index.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_5TUOIvgVkY4zoTBBwK1EUacAhrXIj62-GgpsZ6bPA&s", ANIMAL PLANET (freo)
 https://freeott.site/discovery/Animal_Planet.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHcLtueqyCs9JafihrjzjwVtARUx9lXI5y0A9lwU0mw&s", DISCOVERY (dplus)
@@ -830,8 +690,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e3470007
 
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Action Movies (UK)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Action Movies PLEX (UK)
-https://rakuten-actionmovies-1-gb.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Comedy Movies (UK)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Comedy Movies PLEX (UK)
