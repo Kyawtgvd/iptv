@@ -99,16 +99,6 @@ http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/919.ts
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/917.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN ELEVEN 6 (reals)
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/915.ts
-#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 1 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5964
-#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 2 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5963
-#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 3 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5962
-#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 4 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5968
-#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 5 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5966
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOzBV3w6DAD4vJkY9JLgfhOXBCD3Du8DkMI70NyQ44YPJdpJq974GVOJs&s=10", Sport TV 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48496.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOzBV3w6DAD4vJkY9JLgfhOXBCD3Du8DkMI70NyQ44YPJdpJq974GVOJs&s=10", Sport TV 2 (kstv)
@@ -127,12 +117,12 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/167744
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
 
 
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/3694
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (reals)
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3694.ts
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/15905.ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (lord)
+http://live.lordstreams.co:8080/832396166/1982148236/3694
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (xip)
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/10252
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (7pal)
@@ -169,14 +159,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47786.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47787.ts
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-4.png", ITV 4 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47785.ts
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-1.png", ITV 1 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1224
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-2.png", ITV 2 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1246
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-3.png", ITV 3 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1247
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://assets.livednow.com/logo/ITV-4.png", ITV 4 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1250
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (41)
 http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (41)
@@ -189,14 +171,6 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three - Vpn UK
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1203
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1216
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1273
-#EXTINF:-1 group-title="UK Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HO6zwy5eRVcwshcbv4-UJQB-bNylaV-tYQ&s", BBC Four (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1245
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sport 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47858.ts
 #EXTINF:-1 group-title="UK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sport 2 (kstv)
@@ -369,10 +343,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=801
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=802
 
 
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
@@ -385,26 +355,6 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/291.ts
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/105349.ts
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", Sony Ten Sport 5 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/105350.ts
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18728
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13051
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Ten Sport 3 (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13058
-
-
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNvP3JQAEw6dnv1Xp-1AdSC0f3qN4ATMA9A&usqp=CAU", Sky Sports Main Event UHD (sff)
-https://stream1.freetv.fun/sky-sports-main-event-1.ctv
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNvP3JQAEw6dnv1Xp-1AdSC0f3qN4ATMA9A&usqp=CAU", Sky Sports Main Event UHD (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47875
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyB0bRsREtW9pPxUvaXamX3kgt98CRuWke9g&s", Star Sports 4K (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=909
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWDvdjCFWbD8XFOq7o5V43UQTLHtBaCS5Eg&usqp=CAU", Hub Premier Sports 4K (app)
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWDvdjCFWbD8XFOq7o5V43UQTLHtBaCS5Eg&usqp=CAU", Hub Premier Sports 4K (tga) - No Vpn
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18919
-#EXTINF:-1 group-title="4K UHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png", Sky Sport Bundesliga 4K (app)
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86292
 
 
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png", PPTV HD36 (doo)
