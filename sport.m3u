@@ -16,21 +16,20 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoZxlCCHQk0IfUJUAKSMUYlr9-WV0ZhWGPqDD0JWurbRtxiWw3zRorlw&s=10", ဝုဖ် Vs လိပ်ပု_Only can play in Ott Navi with Vpn Sg (11:00pm)
+#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoZxlCCHQk0IfUJUAKSMUYlr9-WV0ZhWGPqDD0JWurbRtxiWw3zRorlw&s=10", ဝုဖ် Vs လိပ်ပု_Only can play in Ott Navi (11:00pm)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
-https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinWwm_RfN6k2_Bvt9mQ8eBfl1MpvVeiUa-xNrWBa-IS2IpXhlsLb8G_36&s=10", ဘိုင်ယန် Vs လေဗာကူဆင်_Only can play in Ott Navi with Vpn Sg (11:00pm)
+#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinWwm_RfN6k2_Bvt9mQ8eBfl1MpvVeiUa-xNrWBa-IS2IpXhlsLb8G_36&s=10", ဘိုင်ယန် Vs လေဗာကူဆင်_Only can play in Ott Navi (11:00pm)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
+https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 
 
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 1
