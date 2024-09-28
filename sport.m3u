@@ -476,7 +476,7 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125443.ts
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (myte)
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
-#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 1 (ultra)
+#EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/26818
 #EXTINF:-1 group-title="Star Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/26819
@@ -488,9 +488,9 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
 
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/26920
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 2 (ultra)
+#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/20631
-#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 3 (ultra)
+#EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Ten Sport 3 (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/20632
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/289.ts
