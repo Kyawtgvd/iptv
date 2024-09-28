@@ -43,13 +43,13 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 5
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/f0/bf/71/f0bf711c06447746faba428ebd5d9cf5.jpg", DAZN 1 Spain (Only Live Event)
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 6 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/a3/c2/8f/a3c28f93c660b3b2c018a88d5f12cf41.jpg", DAZN 2 Spain (Only Live Event)
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 7 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz2.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/b6/35/b3/b635b3079ac1dc12cb33afccf3742e65.jpg", DAZN 3 Spain (Only Live Event)
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 8 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz3.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/ed/4a/0e/ed4a0e2870d70a9974990c3590491c92.jpg", DAZN 4 Spain (Only Live Event)
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 9 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz4.m3u8
 
 
@@ -71,13 +71,13 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun7.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun8.m3u8
 
 
-#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg",LINK 1
+#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", LINK 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri1.m3u8
-#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg",LINK 2
+#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", LINK 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri2.m3u8
-#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg",LINK 3
+#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", LINK 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri3.m3u8
-#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg",LINK 4
+#EXTINF:-1 group-title="Serie A⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", LINK 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri6.m3u8
 
 
@@ -89,26 +89,6 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis2.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis3.m3u8
 #EXTINF:-1 group-title="LaLiga⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LINK 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis5.m3u8
-
-
-#EXTINF:-1 group-title="Setanta Sports" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png", Setanta Sports 1 (bkm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-#EXTINF:-1 group-title="Setanta Sports" tvg-logo="https://i.ibb.co.com/fpKYZrr/setantasp2.png", Setanta Sports 2 (bkm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-#EXTINF:-1 group-title="Setanta Sports" tvg-logo="https://i.ibb.co.com/VDqDFL0/setantaspkz.png", Setanta Sports Premier (bkm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:-1 group-title="Setanta Sports" tvg-logo="https://i.ibb.co.com/VDqDFL0/setantaspkz.png", Setanta Sports Premier+ (bkm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-#EXTINF:-1 group-title="Setanta Sports" tvg-logo="https://i.ibb.co.com/MBycKrP/qazsport.png", QAZSPORT (bkm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-#EXTINF:-1 group-title="Setanta Sports" tvg-logo="https://i.ibb.co.com/jf7QwkY/vijuplusport.png", Viju+ Sport (bkm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHxoT8CcmQ7BjRJi9AfTu6-vWscK1vrgvIg&usqp=CAU", TNT Sports 1 (reals)
