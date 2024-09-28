@@ -164,55 +164,6 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 1 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 2 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 3 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_03/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 4 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_04/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 5 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_05/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 6 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_06/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 7 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_07/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 8 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_08/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 9 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_09/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 10 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_10/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 11 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_11/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 12 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 13 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 14 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 15 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 16 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 17 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 18 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 19 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_19/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 20 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_20/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 21 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_21/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 22 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_22/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 23 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_23/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button 24 (only Event) - Vpn UK
-https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_24/iptv_hd_abr_v1.mpd
-
 #EXTINF:-1 group-title="SPORT LIVE EVENTS⭐" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png", Mixed Sports Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -470,29 +421,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-
-
-
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png", Play Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png", Play Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png", Play Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
 
 
@@ -785,24 +713,24 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra1/xtra1.isml/index.mpd
 
 
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeq03y3J-y_R3hDQS5BIujrhhjy6S7LagBQ&usqp=CAU", DAZN 1 (Spain)
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.pinimg.com/236x/f0/bf/71/f0bf711c06447746faba428ebd5d9cf5.jpg", DAZN 1 (Spain)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeq03y3J-y_R3hDQS5BIujrhhjy6S7LagBQ&usqp=CAU", DAZN 2 (Spain)
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.pinimg.com/236x/a3/c2/8f/a3c28f93c660b3b2c018a88d5f12cf41.jpg", DAZN 2 (Spain)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeq03y3J-y_R3hDQS5BIujrhhjy6S7LagBQ&usqp=CAU", DAZN 3 (Spain)
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.pinimg.com/236x/b6/35/b3/b635b3079ac1dc12cb33afccf3742e65.jpg", DAZN 3 (Spain)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeq03y3J-y_R3hDQS5BIujrhhjy6S7LagBQ&usqp=CAU", DAZN 4 (Spain)
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.pinimg.com/236x/ed/4a/0e/ed4a0e2870d70a9974990c3590491c92.jpg", DAZN 4 (Spain)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
@@ -811,27 +739,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://rb.gy/98jmt0", DAZN 1 (Germany)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://rb.gy/98jmt0", DAZN 2 (Germany)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://rb.gy/98jmt0", DAZN 1 (Italy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd
 
 #EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://i.ibb.co.com/Sf4tvWw/daznf1.png", DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -901,69 +808,6 @@ https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://www.sportintv.eu/wp-content/uploads/2022/08/dazn-eleven-sports.jpg", DAZN 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://rb.gy/98jmt0", DAZN 1 (UK)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-045/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://rb.gy/98jmt0", DAZN Eleven 1 (Belgium)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-048/stream.mpd
-
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://rb.gy/98jmt0", DAZN Eleven 1 (Netherlands)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
 
 
 
@@ -1263,34 +1107,6 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVRYFmV5zdP5rIox76HzxhQ39pBw3ODSUYg&usqp=CAU", Eurosport 1 (Deutschland)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-027/stream.mpd
- 
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVRYFmV5zdP5rIox76HzxhQ39pBw3ODSUYg&usqp=CAU", Eurosport 2 (Deutschland)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-028/stream.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVRYFmV5zdP5rIox76HzxhQ39pBw3ODSUYg&usqp=CAU", Eurosport 1 (Spain)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-029/stream.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVRYFmV5zdP5rIox76HzxhQ39pBw3ODSUYg&usqp=CAU", Eurosport 2 (Spain)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-030/stream.mpd
-
 #EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png", Eurosport Asia (a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1329,25 +1145,6 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/mas
 #KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
 https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png", SportsNet World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
-https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/640px-Major_League_Baseball_logo.svg.png", MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-026/stream.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://seeklogo.com/images/N/nba-logo-41668C66DB-seeklogo.com.png", NBA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-035/stream.mpd
-
 #EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png", NBC4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
@@ -1383,12 +1180,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce4
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png", WWE Network
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
-https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
-
 #EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612", Setanta Sports 1 (Ukraine)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1421,20 +1212,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/wpWgysT/lequipelive1.png", L'Equipe (France)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-041/stream.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png", Sportdigital Fussball
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
-
 #EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RTL_Logo_2022.png", RTL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -1445,12 +1222,6 @@ https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/ZWr5NsB/rtshsport.png", RTSH Sport (Albania)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
-https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png", SPOTV 1 (Singapore)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1522,21 +1293,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/613f17f514b809f854
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
 https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/TMm9G8d/hrt1.png", HRT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls16/hrt1.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/646hnDS/hrt2.png", HRT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls16/hrt2.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://i.ibb.co.com/5GyVtKY/hrt3.png", HRT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls16/hrt3.mpd
 
 
 
