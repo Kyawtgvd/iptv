@@ -10,15 +10,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727601692/ei/v
 
 
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
-#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 5
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
+#EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 6 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 7 (Only Live Event)
