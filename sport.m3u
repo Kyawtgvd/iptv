@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="စူပါဆန်းဒေးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTeCGbcwrlaMub3ngpn1rCT2FoG-d8XoiWCcNiMYD0HL0EAaeTjZ2FjbG&s=10", အိစ်ပ်ဆွစ်ချ် Vs ​ဗီလာ_Only can play in Ott Navi (7:30pm)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-
-#EXTINF:-1 group-title="စူပါဆန်းဒေးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2wCfzMPHBQZ1Puew2GBiNrE_ZjysOz8ydkGgmokN1-G5Zc9GrQDqFLKz&s=10", ဂိတ် Vs စပါး_Only can play in Ott Navi (10:00pm)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
 #EXTINF:-1 group-title="စူပါဆန်းဒေးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPq5h-gkgBRT3axF6GnNGZwO1FMcwKyds4Z8Pg-kX9jvQCh7SSB4thKz_O&s=10", အေတီကို Vs ရီးရဲ_Only can play in Ott Navi (1:30am)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
@@ -147,25 +137,25 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky7.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky8.m3u8
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://i.pinimg.com/236x/37/e5/b1/37e5b1344c0386bec2bc7cf198bec8d8.jpg", Sky Sport 9 NZ (raw)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky9.m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport SELECT NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport SELECT NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134322
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 01 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 01 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134313
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 02 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 02 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134314
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 03 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 03 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134315
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 04 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 04 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134316
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 05 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 05 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134317
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 06 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 06 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134318
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 07 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 07 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134319
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 08 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 08 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134320
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", SKY Sport 09 NZ (ultra)
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", SKY Sport 09 NZ (ultra)
 http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/134321
 
 
@@ -452,19 +442,19 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47629.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47630.ts
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Variety 4 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47631.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png", SuperSport Premier League (cdn)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Premier League (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125445.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png", SuperSport Football (cdn)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Football (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125439.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png", SuperSport Laliga (cdn)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Laliga (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png", SuperSport PSL (cdn)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport PSL (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125446.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/aitip41642604897.png", SuperSport Grandstand (cdn)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Grandstand (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125441.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png", SuperSport Action (cdn)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Action (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125436.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/188vbk1659624662.png", SuperSport Maximo (cdn)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Maximo (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125443.ts
 
 
