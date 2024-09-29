@@ -1,35 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxog1W4gPqCMOW4qstpmD69o142Z5UHVKOePOv2w_kgUu_fbwSoe7foI&s=10", ဆင်ပျံ Vs လက်စတာ_Only can play in Ott Navi with Vpn Sg (8:30pm)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 group-title="ယနေ့ Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTeCGbcwrlaMub3ngpn1rCT2FoG-d8XoiWCcNiMYD0HL0EAaeTjZ2FjbG&s=10", အိစ်ပ်ဆွစ်ချ် Vs ​ဗီလာ_Only can play in Ott Navi (7:30pm)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727601692/ei/vMf4ZorSErC84-EPgPy4oAk/ip/85.203.21.101/id/hilF-k46cFk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257031/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbKAuEBw6-5xr_Eoy0Wt_sL6KKGH0oHFNh5Oo_G4lG9Yu4vwV47QZRViL3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ6RgnZzQuaWWKJ7zICeTCbU4e-xzq4JmY9bhRTffwoHAiEAz4UZxlaVoyOtfmDXrj5IkzMpu2vRyqLWSUDNgCunBbc%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHOhrt7f-FWZA1_Q1PBqU2LKBxiPSV0uIQnzXr4Lw9OvhFRPmTLLA3cM&s=10", မိချယ် Vs ဘရိုက်တန်_Only can play in Ott Navi with Vpn Sg (8:30pm)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
-https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 group-title="ယနေ့ Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2wCfzMPHBQZ1Puew2GBiNrE_ZjysOz8ydkGgmokN1-G5Zc9GrQDqFLKz&s=10", ဂိတ် Vs စပါး_Only can play in Ott Navi (10:00pm)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727601692/ei/vMf4ZorSErC84-EPgPy4oAk/ip/85.203.21.101/id/hilF-k46cFk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257031/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbKAuEBw6-5xr_Eoy0Wt_sL6KKGH0oHFNh5Oo_G4lG9Yu4vwV47QZRViL3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ6RgnZzQuaWWKJ7zICeTCbU4e-xzq4JmY9bhRTffwoHAiEAz4UZxlaVoyOtfmDXrj5IkzMpu2vRyqLWSUDNgCunBbc%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoZxlCCHQk0IfUJUAKSMUYlr9-WV0ZhWGPqDD0JWurbRtxiWw3zRorlw&s=10", ဝုဖ် Vs လိပ်ပု_Only can play in Ott Navi (11:00pm)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="အသင်းကြီးစပါယ်ရှယ်Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinWwm_RfN6k2_Bvt9mQ8eBfl1MpvVeiUa-xNrWBa-IS2IpXhlsLb8G_36&s=10", ဘိုင်ယန် Vs လေဗာကူဆင်_Only can play in Ott Navi (11:00pm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
-https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
+#EXTINF:-1 group-title="ယနေ့ Live⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPq5h-gkgBRT3axF6GnNGZwO1FMcwKyds4Z8Pg-kX9jvQCh7SSB4thKz_O&s=10", အေတီကို Vs ရီးရဲ_Only can play in Ott Navi (1:30am)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727601692/ei/vMf4ZorSErC84-EPgPy4oAk/ip/85.203.21.101/id/hilF-k46cFk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257031/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbKAuEBw6-5xr_Eoy0Wt_sL6KKGH0oHFNh5Oo_G4lG9Yu4vwV47QZRViL3I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ6RgnZzQuaWWKJ7zICeTCbU4e-xzq4JmY9bhRTffwoHAiEAz4UZxlaVoyOtfmDXrj5IkzMpu2vRyqLWSUDNgCunBbc%3D/file/index.m3u8
 
 
 #EXTINF:-1 group-title="EPL⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LINK 1
