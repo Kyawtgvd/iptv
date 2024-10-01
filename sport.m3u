@@ -575,14 +575,6 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1779
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17017
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 5 Serbia (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17016
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 6 Serbia (unity)
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1782
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 7 Serbia (unity)
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17015
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 8 Serbia (unity)
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17014
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 9 Serbia (unity)
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17013
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 1 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -665,10 +657,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 1 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/26818
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/26819
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/289.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (cdn)
@@ -679,12 +667,6 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/291.ts
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/105349.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", Sony Ten Sport 5 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/105350.ts
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/26920
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 2 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/20631
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 3 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/20632
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1200px-Ssc_sports.png", SSC Sport 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -727,6 +709,12 @@ http://live.lordstreams.co:8080/832396166/1982148236/659437
 http://kstv.us:8080/live/tH300gvHff/8606073792/12554.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/12553.ts
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4161
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3207
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2308
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg", beIN Sports USA (fl2)
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s", beIN Sports Xtra en Espanol (d3)
@@ -871,26 +859,22 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125441.ts
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125436.ts
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Maximo (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125443.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Premier League (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/136517
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Football (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/58415
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport La Liga (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/129668
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Action (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/136522
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Blitz (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/129663
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Grandstand (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/129667
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Variety 1 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/129683
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Variety 2 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/129684
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Variety 3 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/129685
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Variety 4 (ultra)
-http://ultrahd.live:2086/Marcolio1000/R7jCsyLRpp/129686
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Premier League (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/924
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Football (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/926
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport La Liga (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13868
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport PSL (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/923
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Action (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2547
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Blitz (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/929
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Grandstand (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/922
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Maximo (unity)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3886
 
 
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png", Eurosports 1 (kstv)
