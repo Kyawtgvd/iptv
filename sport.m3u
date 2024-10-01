@@ -109,6 +109,10 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286318
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/265
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png", Sky Sports Racing (myte)
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163132
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Main Event (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/4699
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Premier League (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/4701
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Premier League (epg)
 https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports Premier League (reals)
@@ -157,6 +161,18 @@ http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/919.ts
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/917.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", DAZN ELEVEN 6 (reals)
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/915.ts
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 1 (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/50901
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 2 (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/50902
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 3 (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/53509
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 4 (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/53510
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 5 (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/53511
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 6 (sib)
+http://vip.sibfungold.net:8080/shineTV/U3QeSVSMRe@oKH6F5P5jO/53512
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/1600px-Sport_TV1_%282023%29.svg.png", Sport TV 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -393,6 +409,14 @@ https://webhdrunns.mizhls.ru/lb/premium629/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium630/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 1 Romania (tree)
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/71457
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 2 Romania (tree)
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/71459
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 3 Romania (tree)
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/2243
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 4 Romania (tree)
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/4219
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 1 Romania (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -653,10 +677,20 @@ https://stream1.freetv.fun/assp3-4.ctv
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (myte)
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (tree)
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (tree)
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (voo)
+http://vo01.mohdtv.com:8880/voby5019/58746247/55284
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (voo)
+http://vo01.mohdtv.com:8880/voby5019/58746247/55282
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Ten Sport 3 (voo)
+http://vo01.mohdtv.com:8880/voby5019/58746247/55281
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/289.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (cdn)
