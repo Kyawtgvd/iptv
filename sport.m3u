@@ -219,8 +219,6 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3694.ts
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/15905.ts
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/3694
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (xip)
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/10252
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (7pal)
@@ -229,10 +227,6 @@ https://7pal.short.gy/usanetwork
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoUSutDhE5nei_ZMJmGmJ1Bv0y3qc0Clb0w&s", CBS Sport Golazo Network (reals)
 http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/660925.ts
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/3645
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", Fox Sport 2 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/3646
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (fl2)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", Fox Sport 2 (fl2)
@@ -735,10 +729,6 @@ https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8|Origin=https://claplivehdp
 https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|Origin=https://claplivehdplay.ru
 
 
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/659436
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (lord)
-http://live.lordstreams.co:8080/832396166/1982148236/659437
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports1.png", beIN Sports English 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/12554.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports2.png", beIN Sports English 2 (kstv)
