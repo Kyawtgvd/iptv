@@ -974,6 +974,47 @@ https://7pal.short.gy/cbssptnw
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.imgur.com/Nq4lPP4.png", USA:WWE_Network
 https://7pal.short.gy/wwenw
 
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg", link 1 မန်စီးတီးပွဲ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg", link 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg", link 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg", link 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg", link 5 မီလန်ပွဲ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg", link 6 အာရီးပွဲ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP15/GO3_LIVE_DASH_AVC/VIP15.mpd
+
+
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8W9Knw7c9-l4UMOfnFGQIBCcmgbNKz1no2pxMJ7urd0tqqMU4EUKAnca&s=10", Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
