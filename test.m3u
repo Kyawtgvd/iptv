@@ -1,5 +1,107 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://i.ibb.co/GJWq7Wq/assuhd.png" group-title="Sport Int", ASS UHD ðŸ‡²ðŸ‡¾
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
+https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 1 ðŸ‡²ðŸ‡¾ 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 2 ðŸ‡²ðŸ‡¾ 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 3 ðŸ‡²ðŸ‡¾ 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 4 ðŸ‡²ðŸ‡¾ 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkYKhxv6at-8lx_sw6WoLLow.png" group-title="Home SPORTS",ASSP 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnKbADT1tg1Ya5TKJwG77qk
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCRqtsweGESLsr699PBBhmA.png" group-title="Home SPORTS",ASSP 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILvezz8u8v8se_Fpjcysvv1w
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkXdxhInPtNn3K3Fy4LaGF9Q.png" group-title="Home SPORTS",ASSP 3
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILuGZAEsgzu37rkSFsI_-Nc8
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkqfWwdF68b82nxuLx1p2sAA.png" group-title="Home SPORTS",ASSP 4
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrHgghTMOPPeHcY7Pd1D8tU
+
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="BBC1" tvg-logo="https://i.ibb.co/PDbMv76/bbcone.png", BBC 1 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="BBC2" tvg-logo="https://i.ibb.co/mJ9bXnS/bbc2.png", BBC 2 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4af943b2626c4eb2b3a49f412204ce59:d62226a1df341e526e39a38501050048
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="BBC3" tvg-logo="https://i.ibb.co/8j9pdy4/bbc3.png", BBC 3 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="BBC4" tvg-logo="https://i.ibb.co/3phgHFg/bbc4.png", BBC 4 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="ITV1" tvg-logo="https://i.ibb.co/vBtRzFV/itv1.png", ITV 1 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="ITV2" tvg-logo="https://i.ibb.co/xYHswjs/itv2.png", ITV 2 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf2957d9327e42eebde873dcb48a7b7f:4ef5e263bbaf80d8daa9593d420d33d0
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="ITV3" tvg-logo="https://i.ibb.co/HHkV6vz/itv3.png", ITV 3 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=272e9f1e2c83412cab74056d9d53bab3:8d1e6569c78dd567db5f69c84e776285
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD TV" tvg-id="ITV4" tvg-logo="https://i.ibb.co/fSsGQ1m/itv4.png", ITV 4 ðŸ‡¬ðŸ‡§
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b169fb2c3214e429b66eb2e19fcafdf:90a98753d8f41ad08906243230975ff1
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
+
+
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-1freetvdd" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
@@ -119,89 +221,6 @@ https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl4_480p/chunks
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-365livebal
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl5_480p/chunks.m3u8|referer=https://365liveball.com/
-
-
-
-#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg", HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg", HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg", HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg", HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg", Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="AIS PLAY" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-#EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="AIS PLAY",BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-#EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="AIS PLAY", BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-#EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports4ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-#EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports5ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-#EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports6ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png", BEIN SPORTS 6
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-#EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports7ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BEIN SPORTS 7
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-
 
 
 #EXTINF:-1 group-title="simple🏆LIGA CHAMPION" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg",LIVE 1
