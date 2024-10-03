@@ -1,57 +1,55 @@
 #EXTM3U
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
-https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
+http://bdtb.io:80/328331/K8PTjw/191277.ts
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 3 (Only Live Event)
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 4
+http://bdtb.io:80/328331/K8PTjw/191281.ts
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 5
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 6 (Only Live Event)
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 7 (Only Live Event)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 8 (Only Live Event)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 9 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz2.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", EPL 8_True Premier Sport 1
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier Sport 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD1_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", EPL 9_True Premier Sport 2
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier Sport 2
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD2_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", EPL 10_True Premier Sport 3
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier Sport 3
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD3_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", EPL 11_True Premier Sport 4
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", True Premier Sport 4
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD4_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", EPL 12_True Premier Sport 5
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", True Premier Sport 5
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD5_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", EPL 13_Astro SuperSport 1
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", EPL 14_Astro SuperSport 2
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", EPL 15_Astro SuperSport 3
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp3
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", EPL 16_Astro SuperSport 4
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
@@ -87,6 +85,30 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis2.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis3.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis5.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PhPxFE34RWtsCd8fGTAgRGDDz2t1E2QS6Sp5IUTIRZyRO8XlBN_x5Wqp&s=10", Ligue 1_1
+http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PhPxFE34RWtsCd8fGTAgRGDDz2t1E2QS6Sp5IUTIRZyRO8XlBN_x5Wqp&s=10", Ligue 1_2
+http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PhPxFE34RWtsCd8fGTAgRGDDz2t1E2QS6Sp5IUTIRZyRO8XlBN_x5Wqp&s=10", Ligue 1_3
+http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 1
+https://stream1.freetv.fun/tnt-sport-1-2.ctv
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 2
+https://stream1.freetv.fun/tnt-sport-2-2.ctv
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 3
+https://stream1.freetv.fun/tnt-sport-3-2.ctv
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 4
+http://89.187.191.99:8080/sk1/index.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 5
+http://89.187.191.99:8080/sk2/index.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 6
+http://89.187.191.99:8080/sk3/index.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 7
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 9
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
 
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (kstv)
@@ -261,6 +283,16 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/14857
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniMás.svg/960px-Logo_UniMás.svg.png", Unimas (23)
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10", TSN 1 (212)
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10", TSN 2 (212)
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10", TSN 3 (212)
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10", TSN 4 (212)
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10", TSN 5 (212)
+http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png", TSN 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -595,15 +627,15 @@ https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium586/index.m3u8|Origin=https://claplivehdplay.ru
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 1 Serbia (unity)
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/SportKlub.png/revision/latest?cb=20130118161042", Sport Klub 1 Serbia (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17019
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 2 Serbia (unity)
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/SportKlub.png/revision/latest?cb=20130118161042", Sport Klub 2 Serbia (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17018
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 3 Serbia (unity)
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/SportKlub.png/revision/latest?cb=20130118161042", Sport Klub 3 Serbia (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1779
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 4 Serbia (unity)
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/SportKlub.png/revision/latest?cb=20130118161042", Sport Klub 4 Serbia (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17017
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 5 Serbia (unity)
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/SportKlub.png/revision/latest?cb=20130118161042", Sport Klub 5 Serbia (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17016
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s", Sport Klub 1 Serbia (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
