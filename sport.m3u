@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
+https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 2
@@ -33,6 +39,22 @@ https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD4_chunklist
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD5_chunklist.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", EPL 13_Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp1
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", EPL 14_Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp2
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", EPL 15_Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp3
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", EPL 16_Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp4
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun1.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 2
