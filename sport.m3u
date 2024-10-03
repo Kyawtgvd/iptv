@@ -111,26 +111,6 @@ http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 
 
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 1 sn (Only Event)
-https://sportnext.online/hls/M1.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 2 sn (Only Event)
-https://sportnext.online/hls/M2.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 3 sn (Only Event)
-https://sportnext.online/hls/M3.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 4 sn (Only Event)
-https://sportnext.online/hls/M4.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 5 sn (Only Event)
-https://sportnext.online/hls/M5.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 6 sn (Only Event)
-https://sportnext.online/hls/M6.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 7 sn (Only Event)
-https://sportnext.online/hls/M7.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 8 sn (Only Event)
-https://sportnext.online/hls/M8.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 9 sn (Only Event)
-https://sportnext.online/hls/M9.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 10 sn (Only Event)
-https://sportnext.online/hls/M10.m3u8
 #EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 1 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/1.m3u8?|referer=techcabal.net/
 #EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 2 nf (Only Event)
@@ -151,6 +131,16 @@ https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/8.m3u8?|referer=techcabal.net/
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/9.m3u8?|referer=techcabal.net/
 #EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 10 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?|referer=techcabal.net/
+#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 1 sn (Only Event)
+https://sportnext.online/hls/M1.m3u8
+#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 2 sn (Only Event)
+https://sportnext.online/hls/M2.m3u8
+#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 3 sn (Only Event)
+https://sportnext.online/hls/M3.m3u8
+#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 4 sn (Only Event)
+https://sportnext.online/hls/M4.m3u8
+#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 5 sn (Only Event)
+https://sportnext.online/hls/M5.m3u8
 
 
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (kstv)
