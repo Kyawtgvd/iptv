@@ -11,26 +11,6 @@ https://canale.mizhls.ru/lb/premium56/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium415/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier Sport 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD1_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier Sport 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD2_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier Sport 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD3_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", True Premier Sport 4
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD4_chunklist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", True Premier Sport 5
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD5_chunklist.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
