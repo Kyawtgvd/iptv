@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Premier League (canal)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium414/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Football (canal)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium56/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport LaLiga (canal)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium415/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTVLCOPT:network-caching=1000
-http://fm1077.serv00.net/Smart.php?id=go_assp1
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTVLCOPT:network-caching=1000
-http://fm1077.serv00.net/Smart.php?id=go_assp2
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTVLCOPT:network-caching=1000
-http://fm1077.serv00.net/Smart.php?id=go_assp3
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTVLCOPT:network-caching=1000
-http://fm1077.serv00.net/Smart.php?id=go_assp4
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 1
 http://bdtb.io:80/328331/K8PTjw/191277.ts
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 2
@@ -281,8 +253,6 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/10252
 https://7pal.short.gy/usanetwork
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network (fl2)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoUSutDhE5nei_ZMJmGmJ1Bv0y3qc0Clb0w&s", CBS Sport Golazo Network (reals)
-http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/660925.ts
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", Fox Sport 1 (fl2)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", Fox Sport 2 (fl2)
@@ -697,6 +667,22 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11492
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11493
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11494
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp1
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp2
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp3
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTVLCOPT:network-caching=1000
+http://fm1077.serv00.net/Smart.php?id=go_assp4
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125429.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (cdn)
@@ -907,44 +893,6 @@ https://webhdrunns.mizhls.ru/lb/premium492/index.m3u8|Origin=https://claplivehdp
 https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|Origin=https://claplivehdplay.ru
 
 
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Premier League (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47633.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Football (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47636.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Laliga (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47638.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport PSL (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47639.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Grandstand (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47724.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Action (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47637.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Blitz (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47632.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Maximo (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47640.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Variety 1 (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47628.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Variety 2 (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47629.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Variety 3 (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47630.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sn1VLn8GROclis2qjZ1RsXF-a8IUVDpo5w&usqp=CAU", SuperSport Variety 4 (kstv)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47631.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Premier League (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125445.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Football (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125439.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Laliga (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport PSL (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125446.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Grandstand (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125441.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Action (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125436.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Maximo (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125443.ts
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Premier League (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/924
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Football (unity)
@@ -961,6 +909,33 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/929
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/922
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Maximo (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3886
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Premier League (cdn)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125445.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Football (cdn)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125439.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Laliga (cdn)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport PSL (cdn)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125446.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Grandstand (cdn)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125441.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Action (cdn)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125436.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Maximo (cdn)
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125443.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Premier League (unity)
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Premier League (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium414/index.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Football (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium56/index.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport LaLiga (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium415/index.m3u8
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Motorsport (canal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
