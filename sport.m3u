@@ -667,19 +667,19 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11492
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11493
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11494
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", Astro SuperSport 2
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", Astro SuperSport 3
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp3
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSport 4
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
@@ -723,10 +723,6 @@ https://tchiphuong.github.io/iptv/channels/sports/hubpremier4.m3u8
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.pinimg.com/236x/e9/26/29/e926291b1813002467ad217180a8ab40.jpg", STAR SPORTS SELECT 1 (raw)
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.pinimg.com/236x/b6/fd/21/b6fd21a3b04be5fe6666326d10464234.jpg", STAR SPORTS SELECT 2 (raw)
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn6.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/289.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (cdn)
@@ -791,10 +787,6 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2308
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s", beIN Sports Xtra en Espanol (d3)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png", beIN Sports Xtra English (prod)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
-#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png", beIN Sports Xtra en Espanol (prod)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", beIN Sports MENA 1 (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -923,16 +915,15 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125441.ts
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125436.ts
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfj16GxzDrpzbJgg7G-lZv7c0BragmpYPUSOpjcggfoGN4xtlZRxRyeU&s=10", SuperSport Maximo (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125443.ts
-#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Premier League (unity)
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Premier League (canal)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Premier League (canal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium414/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Football (canal)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Football (canal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium56/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport LaLiga (canal)
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport LaLiga (canal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium415/index.m3u8
