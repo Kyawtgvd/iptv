@@ -725,18 +725,40 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59217
 https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
 https://stream1.freetv.fun/assp3-4.ctv
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier 1 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/TruePL1.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier 2 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/TruePL2.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier 3 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/TruePL3.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now Premier 1 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png", Now Premier 2 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL2.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png", Now Premier 3 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL3.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png", Now Premier 4 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL4.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1 (tchi)
+https://tchiphuong.github.io/iptv/channels/sports/hubpremier1.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 2 (tchi)
+https://tchiphuong.github.io/iptv/channels/sports/hubpremier2.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 3 (tchi)
+https://tchiphuong.github.io/iptv/channels/sports/hubpremier3.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 4 (tchi)
+https://tchiphuong.github.io/iptv/channels/sports/hubpremier4.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.pinimg.com/236x/e9/26/29/e926291b1813002467ad217180a8ab40.jpg", STAR SPORTS SELECT 1 (raw)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.pinimg.com/236x/b6/fd/21/b6fd21a3b04be5fe6666326d10464234.jpg", STAR SPORTS SELECT 2 (raw)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn6.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (myte)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (myte)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (tree)
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (tree)
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.pinimg.com/236x/bb/7e/82/bb7e8288bac647e2c5dc725ce8d1354a.jpg", SONY TEN SPORT 1 (raw)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn1.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.pinimg.com/236x/e8/8f/f9/e88ff9ebea36fae09c0e3111f743e5dc.jpg", SONY TEN SPORT 2 (raw)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn2.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (voo)
 http://vo01.mohdtv.com:8880/voby5019/58746247/55284
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (voo)
@@ -957,6 +979,38 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/929
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/922
 #EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Maximo (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3886
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Premier League (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium414/index.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Football (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium56/index.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport LaLiga (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium415/index.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Motorsport (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium424/index.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Variety 1 (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium416/playlist.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Variety 2 (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium417/playlist.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Variety 3 (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium418/playlist.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://i.imgur.com/YKJutgE.png", SuperSport Variety 4 (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium419/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png", Eurosports 1 (kstv)
