@@ -667,30 +667,22 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11492
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11493
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11494
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", Astro SuperSport 1 (fm)
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", Astro SuperSport 2
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", Astro SuperSport 2 (fm)
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", Astro SuperSport 3
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", Astro SuperSport 3 (fm)
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp3
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSport 4
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", Astro SuperSport 4 (fm)
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125429.ts
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125430.ts
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125431.ts
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (cdn)
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125432.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 (voo)
 http://vo01.mohdtv.com:8880/voby5019/58746247/59220
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 (voo)
@@ -703,6 +695,16 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59217
 https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
 https://stream1.freetv.fun/assp3-4.ctv
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier Sport 1 (doo)
+https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier Sport 2 (doo)
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier Sport 3 (doo)
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", True Premier Sport 4 (doo)
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", True Premier Sport 5 (doo)
+https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now Premier 1 (raw)
 https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png", Now Premier 2 (raw)
@@ -1197,6 +1199,34 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.imgur.com/YKJutgE.png", HBO (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium321/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.imgur.com/YKJutgE.png", HBO 2 (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium689/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.imgur.com/YKJutgE.png", HBO Comedy (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium690/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.imgur.com/YKJutgE.png", HBO Family (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium691/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.imgur.com/YKJutgE.png", HBO Signature (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium693/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.imgur.com/YKJutgE.png", HBO Zone (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium694/index.m3u8
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://i.imgur.com/YKJutgE.png", Cinemax (canal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium374/index.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU", MOVIE SPHERE UK
 http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3OtF3vQ4YetryJ-M32UrUwbJSm2MFfyhw5lr0V-WskMf6UV7FtNjeql-&s=10", BOLLYWOOD MOVIES
