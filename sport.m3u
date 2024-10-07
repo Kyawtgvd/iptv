@@ -715,13 +715,15 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59219
 http://vo01.mohdtv.com:8880/voby5019/58746247/59218
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (voo)
 http://vo01.mohdtv.com:8880/voby5019/58746247/59217
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier UHD (89)
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWDvdjCFWbD8XFOq7o5V43UQTLHtBaCS5Eg&usqp=CAU", Hub Premier UHD (sff)
+https://stream1.freetv.fun/hub-premier-2-1.ctv
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWDvdjCFWbD8XFOq7o5V43UQTLHtBaCS5Eg&usqp=CAU", Hub Premier UHD (89)
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350568&extension=m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 1 (89)
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1 (89)
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350557&extension=m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png", Hub Premier 2 (89)
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 2 (89)
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350558&extension=m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png", Hub Premier 3 (89)
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png", Hub Premier 3 (89)
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350559&extension=m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1 (tchi)
 https://tchiphuong.github.io/iptv/channels/sports/hubpremier1.m3u8
