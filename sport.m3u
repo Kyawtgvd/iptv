@@ -237,6 +237,14 @@ http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9800.ts
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9797.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLufyZFPGkhUwJqAfuXBclkwJUsWrWkLd9vs--euCJ1lggLtT0wb71A&s=10", Eleven Sports 6 (obs)
 http://obsfullhd.tv:25461/live/sallabosV1/fskbfdslkhLKFHDSLFKHQSlkhdfslk/9795.ts
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 1 (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 2 (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782193.ts
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 3 (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782198.ts
+#EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 4 (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782202.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 1 (cent)
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
 #EXTINF:-1 group-title="Portugal Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", Sport TV 2 (cent)
@@ -707,14 +715,14 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59219
 http://vo01.mohdtv.com:8880/voby5019/58746247/59218
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (voo)
 http://vo01.mohdtv.com:8880/voby5019/58746247/59217
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now Premier 1 (raw)
-https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png", Now Premier 2 (raw)
-https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL2.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png", Now Premier 3 (raw)
-https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL3.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png", Now Premier 4 (raw)
-https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL4.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier UHD (89)
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350568&extension=m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 1 (89)
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350557&extension=m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png", Hub Premier 2 (89)
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350558&extension=m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png", Hub Premier 3 (89)
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350559&extension=m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1 (tchi)
 https://tchiphuong.github.io/iptv/channels/sports/hubpremier1.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 2 (tchi)
@@ -723,6 +731,14 @@ https://tchiphuong.github.io/iptv/channels/sports/hubpremier2.m3u8
 https://tchiphuong.github.io/iptv/channels/sports/hubpremier3.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png", Hub Premier 4 (tchi)
 https://tchiphuong.github.io/iptv/channels/sports/hubpremier4.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now Premier 1 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png", Now Premier 2 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL2.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png", Now Premier 3 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL3.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png", Now Premier 4 (raw)
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL4.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
@@ -787,6 +803,12 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3206
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3207
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports3.png", beIN Sports English 3 (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3208
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 1 HK (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1860305.ts
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 2 HK (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1860306.ts
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 3 HK (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1860307.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg", beIN Sports USA (fl2)
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s", beIN Sports Xtra en Espanol (d3)
