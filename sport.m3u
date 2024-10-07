@@ -695,16 +695,6 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59217
 https://stream1.freetv.fun/116209075d64c43fa83f35dfb6d2560f89a858fc41f4828afd683a59b5c77526.ctv
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 (sff) b
 https://stream1.freetv.fun/assp3-4.ctv
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier Sport 1 (doo)
-https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier Sport 2 (doo)
-https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier Sport 3 (doo)
-https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", True Premier Sport 4 (doo)
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", True Premier Sport 5 (doo)
-https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png", Now Premier 1 (raw)
 https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png", Now Premier 2 (raw)
@@ -1518,8 +1508,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffb
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png", Pluto Westerns
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
-#EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Action Movies (UK)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Comedy Movies (UK)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Pluto & Rakuten Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Comedy Movies PLEX (UK)
