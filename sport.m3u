@@ -283,6 +283,8 @@ https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|Origin=https://claplivehdp
 https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdplay.ru
 
 
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fkByvxDFYY3w1sOJw2WVw2SobpM9BiGTSQ&s", USA Network (home)
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56182
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/15905.ts
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (streamsy)
@@ -295,6 +297,8 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", Fox Sport 2 (fl2)
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s", TUDN (home)
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/242045
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png", Universo (streamsy)
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/329
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png", Telemundo (streamsy)
