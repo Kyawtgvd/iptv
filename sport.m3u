@@ -1362,15 +1362,15 @@ https://webhdrunns.mizhls.ru/lb/premium693/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium694/index.m3u8|Origin=https://claplivehdplay.ru
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IWXIcKjEC5w_PVu6QS7UpKKabrxSwvuGMw&usqp=CAU", HBO - Vpn Sg (non)
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbo.png", HBO - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1496
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png", HBO Hits - Vpn Sg (non)
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbohits.png", HBO Hits - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/11492
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s", HBO Family - Vpn Sg (non)
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png", HBO Family - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30184
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png", HBO Signature - Vpn Sg (non)
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbosig.png", HBO Signature - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1498
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax - Vpn Sg (non)
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/cinemax.png", Cinemax - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30185
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/4
@@ -1382,31 +1382,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/94
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/99
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyIGtb3QL4rcGcFlxV1qxqXB37hALtgcBm4BFwehGtcT5Gld2PEPDENk&s=10", Warner TV - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbo.png", HBO - Vpn Sg (OTT)
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbohits.png", HBO Hits - Vpn Sg (OTT)
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png", HBO Family - Vpn Sg (OTT)
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/hbosig.png", HBO Signature - Vpn Sg (OTT)
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://iptvsystem.my.id/img/cinemax.png", Cinemax - Vpn Sg (OTT)
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU", MOVIE SPHERE UK
 http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3OtF3vQ4YetryJ-M32UrUwbJSm2MFfyhw5lr0V-WskMf6UV7FtNjeql-&s=10", BOLLYWOOD MOVIES
