@@ -385,6 +385,12 @@ http://103.97.89.234/setantaplus/index.m3u8
 http://103.97.89.234/viasatsport/index.m3u8
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwq2A5GZfb-EJH1EANfiOqKA1INyD0Zoc79w&usqp=CAU", Belarus 5
 http://103.97.89.234/belarus5/index.m3u8
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcL7EGlNptdpeI0jAipKYBqJvH9w1bTaKKdAK7a2WL39UP5xfS2VoCCGA&s=10", Rai 1 (super)
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/150251
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcL7EGlNptdpeI0jAipKYBqJvH9w1bTaKKdAK7a2WL39UP5xfS2VoCCGA&s=10", Rai 2 (super)
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/150252
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcL7EGlNptdpeI0jAipKYBqJvH9w1bTaKKdAK7a2WL39UP5xfS2VoCCGA&s=10", Rai 3 (super)
+http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/150253
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1a.png", Polsat Sport Premium 1 (super)
 http://super-media.giize.com:80/jasmingusic-razmena-drugar-gmail-com/wChZTGm4uZ/263331
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2a.png", Polsat Sport Premium 2 (super)
