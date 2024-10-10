@@ -1338,6 +1338,30 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU", HBO US (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium321/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU", HBO 2 US (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium689/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU", HBO Comedy US (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium690/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU", HBO Family US (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium691/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU", HBO Signature US (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium693/index.m3u8|Origin=https://claplivehdplay.ru
+#EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i37BlBJaFqsVmVBZDaocHX8dnNywNiOCPA&usqp=CAU", HBO Zone US (web)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium694/index.m3u8|Origin=https://claplivehdplay.ru
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IWXIcKjEC5w_PVu6QS7UpKKabrxSwvuGMw&usqp=CAU", HBO - Vpn Sg (non)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1496
 #EXTINF:-1 group-title="Entertainnent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png", HBO Hits - Vpn Sg (non)
