@@ -129,6 +129,18 @@ http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255252
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255253
 #EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 9
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/255254
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", Sport TV 1
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461173&extension=ts
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", Sport TV 2
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461175&extension=ts
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", Sport TV 3
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461177&extension=ts
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", Sport TV 4
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461179&extension=ts
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", Sport TV 5
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461181&extension=ts
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", Sport TV 6
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=461183&extension=ts
 
 
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (kstv)
