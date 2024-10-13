@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sky Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://live2-ott.izzigo.tv/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Sky Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports Live Event 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+https://live1-ott.izzigo.tv/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Sky Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports Live Event 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Sky Sports Mexico" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports Live Event 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+https://live1-ott.izzigo.tv/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
