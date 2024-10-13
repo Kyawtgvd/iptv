@@ -33,6 +33,28 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 https://live1-ott.izzigo.tv/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 
 
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Event Extra 16 - Only Live Event (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP16/GO3_LIVE_DASH_AVC/VIP15.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Event Extra 17 - Only Live Event (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP17/GO3_LIVE_DASH_AVC/VIP15.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Event Extra 18 - Only Live Event (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP18/GO3_LIVE_DASH_AVC/VIP15.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Event Extra 19 - Only Live Event (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP19/GO3_LIVE_DASH_AVC/VIP15.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Event Extra 20 - Only Live Event (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP20/GO3_LIVE_DASH_AVC/VIP15.mpd
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
