@@ -75,36 +75,56 @@ http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 
 
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 1 sn (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 1 sn (Only Event)
 https://sportnext.online/hls/M1.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 2 sn (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 2 sn (Only Event)
 https://sportnext.online/hls/M2.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 3 sn (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 3 sn (Only Event)
 https://sportnext.online/hls/M3.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 4 sn (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 4 sn (Only Event)
 https://sportnext.online/hls/M4.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 5 sn (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0pexOuo9LuIbYQbgG2RUF372ZtjfaCzc3Sg&usqp=CAU", All League Live 5 sn (Only Event)
 https://sportnext.online/hls/M5.m3u8
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 1 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 1 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/1.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 2 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 2 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/2.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 3 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 3 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 4 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 4 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/4.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 5 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 5 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/5.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 6 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 6 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/6.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 7 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 7 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/7.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 8 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 8 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/8.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 9 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 9 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/9.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Website Live Stream⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 10 nf (Only Event)
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", All League Live 10 nf (Only Event)
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?|referer=techcabal.net/
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 1 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 2 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 3 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 4 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 5 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 6 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37395.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 7 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37394.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 8 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37393.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 9 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37392.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 10 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37391.m3u8
 
 
 #EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 1
