@@ -1,41 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 1
-http://bdtb.io:80/328331/K8PTjw/191277.ts
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 2
-http://bdtb.io:80/328331/K8PTjw/191281.ts
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 3
-https://stream1.freetv.fun/assp3-4.ctv
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 8 (Only Live Event)
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 9 (Only Live Event)
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 1 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 10 (Only Live Event)
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 2 (Only Live Event)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz2.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 1
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep2.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep3.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 10
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep8.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 11
+https://stream1.freetv.fun/assp3-4.ctv
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 12
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky3.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 1
 https://stream1.freetv.fun/tnt-sport-1-2.ctv
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 2
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 2
 https://stream1.freetv.fun/tnt-sport-2-2.ctv
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 3
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 3
 https://stream1.freetv.fun/tnt-sport-3-2.ctv
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 4
-http://89.187.191.99:8080/sk1/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 5
-http://89.187.191.99:8080/sk2/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 6
-http://89.187.191.99:8080/sk3/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 7
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 4
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 5
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGtMvAw58CD_1VzGJ63sm1YsUgv1I4KBDfJpOvF51oOOyfy72l5XuTy96&s=10", UCL 9
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/UEFA_Champions_League_logo.svg/2560px-UEFA_Champions_League_logo.svg.png", UCL 6
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun1.m3u8
@@ -60,7 +58,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri2.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri3.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri6.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri4.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis1.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 2
@@ -68,7 +66,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis2.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis3.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis5.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis4.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PhPxFE34RWtsCd8fGTAgRGDDz2t1E2QS6Sp5IUTIRZyRO8XlBN_x5Wqp&s=10", Ligue 1_1
 http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PhPxFE34RWtsCd8fGTAgRGDDz2t1E2QS6Sp5IUTIRZyRO8XlBN_x5Wqp&s=10", Ligue 1_2
@@ -110,72 +108,56 @@ https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?|referer=techcabal.net/
 
 
 #EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 1
-http://89.187.191.99:8080/ss1hd/index.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 2
-http://89.187.191.99:8080/ss2hd/index.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 3
-http://89.187.191.99:8080/ss3hd/index.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 4
-http://89.187.191.99:8080/ss4hd/index.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 5
-http://89.187.191.99:8080/ss5hd/index.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium414/index.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 7
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 2
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3886
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 8
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 3
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/104026
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 9
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky2.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 10
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky3.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 11
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 4
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61345&extension=ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 12
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 5
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61346&extension=ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 13
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 6
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=78969&extension=ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 14
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 7
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=78970&extension=ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 15
-http://89.187.191.99:8080/sk6/index.m3u8
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 16
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8|Origin=https://weblivehdplay.ru
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 17
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8|Origin=https://weblivehdplay.ru
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 18
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 10
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 19
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 11
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782167.ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 20
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 12
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782172.ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 21
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 13
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782176.ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 22
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 14
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 23
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 15
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 24
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 16
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126059
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 25
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 17
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126060
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 26
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 18
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126082
-#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 27
+#EXTINF:-1 group-title="Nations League⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYp4h8irrLOfXlZhC49-5yXkA9wjjVlXy2Qo_7bQHWb6YQvKhpudWZkw&s=10", NL 19
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126083
 
 
