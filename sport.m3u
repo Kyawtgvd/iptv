@@ -12,9 +12,9 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/251
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 5
 https://p13.lol/centra_live_a_b/n907iOxHult0/793874.ts
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 6
-http://103.97.89.234/setantaua/index.m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=136690&extension=ts
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 7
-http://103.97.89.234/setanta1/index.m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=136740&extension=ts
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 8
 https://stream1.freetv.fun/tnt-sport-1-2.ctv
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 9
@@ -429,18 +429,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 http://kstv.us:8080/live/tH300gvHff/8606073792/47858.ts
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sport 2 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47859.ts
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports (Ukraine)
-http://103.97.89.234/setantaua/index.m3u8
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports 1
-http://103.97.89.234/setanta1/index.m3u8
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports 2
-http://103.97.89.234/setanta2/index.m3u8
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports Plus
-http://103.97.89.234/setantaplus/index.m3u8
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://www.cableman.ru/sites/default/files/viju_sport_color_rgb_02_1.png", Viju+ Sport
-http://103.97.89.234/viasatsport/index.m3u8
-#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwq2A5GZfb-EJH1EANfiOqKA1INyD0Zoc79w&usqp=CAU", Belarus 5
-http://103.97.89.234/belarus5/index.m3u8
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 1 Premium (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
