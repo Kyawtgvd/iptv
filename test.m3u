@@ -1,14 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier Football 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://playidtv24.vercel.app/stream/now/premier1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier Football 2
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://playidtv24.vercel.app/stream/now/premier2.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier Football 3
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://playidtv24.vercel.app/stream/now/premier3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", True Premier Football 4
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://playidtv24.vercel.app/stream/now/premier4.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", True Premier Football 5
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://playidtv24.vercel.app/stream/now/premier5.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -26,32 +31,6 @@ https://canale.mizhls.ru/lb/premium885/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium886/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guki.my.id/logo/sports/sony3.png", Sony Sport 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157880.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guki.my.id/logo/sports/sony3.png", Sony Sport 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157879.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guki.my.id/logo/sports/sony3.png", Sony Sport 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157878.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 1 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 2 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 3 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 4 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 5 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 6 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37395.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 7 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37394.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 8 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37393.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 9 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37392.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 10 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37391.m3u8
 
 
 #EXTINF:-1 group-title="Sport Ott" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", Willow
