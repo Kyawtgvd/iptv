@@ -837,6 +837,12 @@ https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asi
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="http://guki.my.id/logo/sports/sony3.png", Sony Sport 1 (extra)
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157880.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="http://guki.my.id/logo/sports/sony3.png", Sony Sport 2 (extra)
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157879.m3u8
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="http://guki.my.id/logo/sports/sony3.png", Sony Sport 3 (extra)
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157878.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Ten Sport 1 (cdn)
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/289.ts
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png", Sony Ten Sport 2 (cdn)
