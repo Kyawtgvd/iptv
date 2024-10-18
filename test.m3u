@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium461/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium870/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL 3
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=45466&extension=m3u8
-
-
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports (Ukraine)
 http://103.97.89.234/setantaua/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports 1
@@ -120,7 +108,7 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59833&exten
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59834&extension=ts
 
 
-#EXTINF:-1 group-title="Sport Ott" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", Willow
+#EXTINF:-1 group-title="Sport Ott" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
