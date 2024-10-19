@@ -213,6 +213,8 @@ http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126082
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/126083
 
 
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports Ultimate 4K (mob)
+http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1595637&extension=m3u8
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png", TNT Sports 1 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png", TNT Sports 2 (kstv)
