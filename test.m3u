@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="live event",ASSP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://mhdtv.co.in/daddy/stream.m3u8?id=123|Referer=https://mhdtv.co.in/daddy/?play=123
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="live event",ASSP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://mhdtv.co.in/daddy/stream.m3u8?id=124|Referer=https://mhdtv.co.in/daddy/?play=124
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="live event",ASSP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://mhdtv.co.in/daddy/stream.m3u8?id=125|Referer=https://mhdtv.co.in/daddy/?play=125
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="live event",ASSP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://mhdtv.co.in/daddy/stream.m3u8?id=126|Referer=https://mhdtv.co.in/daddy/?play=126
-
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports (Ukraine)
 http://103.97.89.234/setantaua/index.m3u8
