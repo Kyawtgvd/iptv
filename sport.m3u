@@ -391,6 +391,8 @@ https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdp
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56182
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://img.usanetwork.com/files/USA-Logo-Color-f83837_450x198.png", USA Network (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/15905.ts
+#EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (s21)
+http://s21tv.co:80/sports3456676654/146150109025/359539
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (streamsy)
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/251
 #EXTINF:-1 group-title="US Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS Sport Network (fl2)
