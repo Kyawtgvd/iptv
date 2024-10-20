@@ -1239,66 +1239,138 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 1 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 2 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 3 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP3/GO3_LIVE_DASH_AVC/VIP3.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 4 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP4/GO3_LIVE_DASH_AVC/VIP4.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 5 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP5/GO3_LIVE_DASH_AVC/VIP5.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 6 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP6/GO3_LIVE_DASH_AVC/VIP6.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 7 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP7/GO3_LIVE_DASH_AVC/VIP7.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 8 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP8/GO3_LIVE_DASH_AVC/VIP8.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 9 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP9/GO3_LIVE_DASH_AVC/VIP9.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 10 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP10/GO3_LIVE_DASH_AVC/VIP10.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 11 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP11/GO3_LIVE_DASH_AVC/VIP11.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 12 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP12/GO3_LIVE_DASH_AVC/VIP12.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 13 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP13/GO3_LIVE_DASH_AVC/VIP13.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 14 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP14/GO3_LIVE_DASH_AVC/VIP14.mpd
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event Extra 15 - Only Live Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
-https://cdn9.tvplayhome.lt/live/eds2/VIP15/GO3_LIVE_DASH_AVC/VIP15.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", ESPN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", ESPN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", ESPN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", ESPN 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", ESPN 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", ESPN 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg", ESPN 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 1 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 2 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 3 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 4 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 5 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 6 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 7 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 8 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 9 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 10 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 11 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 12 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 13 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 14 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://www.liveevent.com.au/wp-content/uploads/2021/03/live_logo_cmyk_white.png", Event 15 - Only Live Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612", Setanta Sports 1 Ukraine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
