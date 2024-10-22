@@ -17,13 +17,13 @@ https://canale.mizhls.ru/lb/premium885/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium886/playlist.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Animal Planet
-https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Food Network
-https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", HBO
-https://fl2.moveonjoy.com/HBO/index.m3u8
+http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", HBO 2
-https://fl2.moveonjoy.com/HBO_2/index.m3u8
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", SKY 1 4K - Only Event
 http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444580
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", SKY 2 4K - Only Event
