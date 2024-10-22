@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports (Ukraine)
-http://103.97.89.234/setantaua/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports 1
-http://103.97.89.234/setanta1/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports 2
-http://103.97.89.234/setanta2/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg", Setanta Sports Plus
-http://103.97.89.234/setantaplus/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://www.cableman.ru/sites/default/files/viju_sport_color_rgb_02_1.png", Viju+ Sport
-http://103.97.89.234/viasatsport/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwq2A5GZfb-EJH1EANfiOqKA1INyD0Zoc79w&usqp=CAU", Belarus 5
-http://103.97.89.234/belarus5/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
@@ -20,54 +8,48 @@ https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8|Origin=https://weblivehd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8|Origin=https://weblivehdplay.ru
-#EXTINF:-1 group-title="Test" tvg-logo="http://guki.my.id/logo/sports/sony1.png", Sony Sport 1 (canal)
+#EXTINF:-1 group-title="Test" tvg-logo="http://guki.my.id/logo/sports/sony1.png", Sony Ten 1 (canal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium885/playlist.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="http://guki.my.id/logo/sports/sony2.png", Sony Sport 2 (canal)
+#EXTINF:-1 group-title="Test" tvg-logo="http://guki.my.id/logo/sports/sony2.png", Sony Ten 2 (canal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium886/playlist.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", SKY SPORT UNO Italy (pda)
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=136690&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", SKY SPORT CALCIO Italy (pda)
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=136740&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", SKY SPORT 24 Italy (pda)
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=136692&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", SKY SPORT ARENA Italy (pda)
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=56618&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", SKY SPORT ACTION Italy (pda)
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=337097&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", CANAL+ SPORT
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=2804&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", CANAL+ FOOT
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=418308&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158", CANAL+ SPORT 360
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=418307&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8T3aC9BD4HMtI7vYmi0MOldyEkdZqLfIXAw&s", RMC SPORT 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=746094&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8T3aC9BD4HMtI7vYmi0MOldyEkdZqLfIXAw&s", RMC SPORT 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=2810&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=2816&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=2818&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT 3
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=2820&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT MAX 4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=80079&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT MAX 5
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=80080&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT MAX 6
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=80081&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT MAX 7
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=80082&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT MAX 8
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=80083&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT MAX 9
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=80084&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg", BEIN SPORT MAX 10
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=80085&extension=ts
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Animal Planet
+https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Food Network
+https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", HBO
+https://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", HBO 2
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", SKY 1 4K - Only Event
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444580
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", SKY 2 4K - Only Event
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444581
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier UHD (89)
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1350568&extension=m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 1 - no Vpn
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 2 - no Vpn
+http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 3 - no Vpn
+http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 4 - no Vpn
+http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 5 - no Vpn
+http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports Ultimate 4K (mob)
+http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1595637&extension=m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 1 - no Vpn
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 2 - no Vpn
+http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 3 - no Vpn
+http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 4 - no Vpn
+http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport Select
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76350
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 1
@@ -82,30 +64,6 @@ http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76353
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76355
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 6 Tennis
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76354
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IqVRIs8PGT-KQPP7H7Zg7A4n9mp-uHmpZhndVEHVwrtY7X82mtTbjzU&s=10", Polsat Sport Premium 1
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229591
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IqVRIs8PGT-KQPP7H7Zg7A4n9mp-uHmpZhndVEHVwrtY7X82mtTbjzU&s=10", Polsat Sport Premium 2
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229592
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IqVRIs8PGT-KQPP7H7Zg7A4n9mp-uHmpZhndVEHVwrtY7X82mtTbjzU&s=10", Polsat Sport Premium 3 (Event)
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229593
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IqVRIs8PGT-KQPP7H7Zg7A4n9mp-uHmpZhndVEHVwrtY7X82mtTbjzU&s=10", Polsat Sport Premium 4 (Event)
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229594
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IqVRIs8PGT-KQPP7H7Zg7A4n9mp-uHmpZhndVEHVwrtY7X82mtTbjzU&s=10", Polsat Sport Premium 5 (Event)
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229595
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IqVRIs8PGT-KQPP7H7Zg7A4n9mp-uHmpZhndVEHVwrtY7X82mtTbjzU&s=10", Polsat Sport Premium 6 (Event)
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229596
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXheMDM4xMgfp732NL27iRcgBlboyxs2mCCiPYpiIEIuvHR-1H7AVidKAF&s=10", VOO SPORT WORLD 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=42370&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXheMDM4xMgfp732NL27iRcgBlboyxs2mCCiPYpiIEIuvHR-1H7AVidKAF&s=10", VOO SPORT WORLD 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59833&extension=ts
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXheMDM4xMgfp732NL27iRcgBlboyxs2mCCiPYpiIEIuvHR-1H7AVidKAF&s=10", VOO SPORT WORLD 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=59834&extension=ts
 
 
 #EXTINF:-1 group-title="Sport Ott" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", W
