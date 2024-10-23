@@ -80,48 +80,58 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228520&exte
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=228521&extension=ts
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2126&extension=m3u8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70005
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2125&extension=m3u8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70012
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2124&extension=m3u8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70016
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 4
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2123&extension=m3u8
+http://s21tv.co:80/sports3456676654/146150109025/333823
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 5
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021553&extension=m3u8
+http://s21tv.co:80/sports3456676654/146150109025/333825
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 6
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021585&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2126&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 7
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=282670&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2125&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 8
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=282671&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2124&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 9
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=282672&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=2123&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 10
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1433203&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021553&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 11
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1433189&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021585&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 12
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175667
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 13
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175675
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 14
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175680
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 15
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229591
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/175682
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 16
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229592
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/174474
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 17
-http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229593
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 18
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 19
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 20
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229591
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 21
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229592
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 22
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/229593
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium414/index.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 19
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium885/playlist.m3u8
-#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 20
+#EXTINF:-1 group-title="Main Leagues⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FdzP7LLK1YWRKKV4K5tSLuuqZxwBFGxA2374YU7-r-MfXRvgZ_Wyf4vs&s=10", UCL/UEL/Con 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium886/playlist.m3u8
@@ -1658,6 +1668,8 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/437267.ts
 https://p13.lol/centra_live_a_b/n907iOxHult0/2299459.ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wEj3yFAwSus9emc1bki2oXWvnG3xegGTSw&usqp=CAU", Sky Sports+ (simple)
 https://p13.lol/centra_live_a_b/n907iOxHult0/1191809.ts
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 1 UHD (simple)
+http://redlighting.ufcfan.org:80/dqtzpSDMFm/ENeB5MP5cu/70008
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 1 (simple)
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4wUk2jt7Si5dvd2CDwlO6AvL5qc8KmBI051aslZ3dc4vQCeKYPdsFZEJ&s=10", Eleven Sports 2 (simple)
