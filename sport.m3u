@@ -953,6 +953,14 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3206
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3207
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/beinsports3.png", beIN Sports English 3 (unity)
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3208
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 1 HK (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1860305.ts
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 2 HK (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1860306.ts
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 3 HK (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1860307.ts
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png", beIN Sports 4 HK (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/1860308.ts
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg", beIN Sports USA (fl2)
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s", beIN Sports Xtra en Espanol (d3)
@@ -1117,6 +1125,18 @@ https://canale.mizhls.ru/lb/premium418/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium419/playlist.m3u8
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Premier League (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/793896.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Football (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/793891.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Grandstand (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/793895.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport PSL (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/793897.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Action (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/793892.ts
+#EXTINF:-1 group-title="Super Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjcp99pvvgBO6-LHGRj027byewM1KmNOiSA&usqp=CAU", SuperSport Blitz (cent)
+https://p13.lol/centra_live_a_b/n907iOxHult0/793886.ts
 
 
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011.png", EuroSport 1 UK (web)
@@ -1664,6 +1684,10 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/2086103.ts
 https://p13.lol/centra_live_a_b/n907iOxHult0/2086104.ts
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/TNT_Sports_Ultimate_(2023)_II.svg/revision/latest/scale-to-width-down/250?cb=20230719041550", TNT Sports Ultimate 4K (simple)
 https://p13.lol/centra_live_a_b/n907iOxHult0/1472066.ts
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", Sky Sport 1 4K - Only Event (simple)
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444580
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png", Sky Sport 2 4K - Only Event (simple)
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/1444581
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8W9Knw7c9-l4UMOfnFGQIBCcmgbNKz1no2pxMJ7urd0tqqMU4EUKAnca&s=10", Aljazeera News
