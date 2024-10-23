@@ -473,6 +473,20 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 http://kstv.us:8080/live/tH300gvHff/8606073792/47858.ts
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sport 2 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47859.ts
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport Select
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76350
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 1 NL
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/66852
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 2 Voetbal
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76351
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 3 Golf
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76352
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 4 Racing
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76353
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 5 Docu
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76355
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 6 Tennis
+http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76354
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10", Arena Sport 1 Premium (web)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
