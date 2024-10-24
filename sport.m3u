@@ -251,6 +251,30 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis2.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis3.m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis4.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium475/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium85/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium430/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium580/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium539/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg", LaLiga 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium415/playlist.m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri1.m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 2
@@ -259,6 +283,46 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri2.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri3.m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri4.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium413/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium135/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium474/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium473/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium914/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium56/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium624/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium429/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium625/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg", Serie A 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium418/playlist.m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 1
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216679&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 2
@@ -267,17 +331,33 @@ http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216691&extension=m3u8
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 4
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216697&extension=m3u8
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 01
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium729/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium886/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium467/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium260/playlist.m3u8
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 9
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1508
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 02
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 10
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1507
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 03
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 11
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1506
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 04
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 12
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1505
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 05
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 13
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1504
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 06
+#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 14
 http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1503
 #EXTINF:-1 group-title="Main Leagues" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/160px-EFL_Championship_Logo.svg.png", EFL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
