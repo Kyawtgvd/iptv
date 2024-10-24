@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Match Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium136/index.m3u8|Origin=https://weblivehdplay.ru
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Match Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium137/index.m3u8|Origin=https://weblivehdplay.ru
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Match Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium138/index.m3u8|Origin=https://weblivehdplay.ru
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gaZdu8u.png", FS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
