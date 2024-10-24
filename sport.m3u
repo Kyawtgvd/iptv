@@ -473,6 +473,12 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 http://kstv.us:8080/live/tH300gvHff/8606073792/47858.ts
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sport 2 (kstv)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47859.ts
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 1 (45)
+http://45.90.106.98/digisport1/index.m3u8
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 2 (45)
+http://45.90.106.98/digisport2/index.m3u8
+#EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsgPAZ4naL0gwtnvI4SBw4_N-Agv_2PU-6w&s", Digi Sport 3 (45)
+http://45.90.106.98/digisport3/index.m3u8
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport Select
 http://sharkytv.com:2082/pHS6CdyBwv8F/7zGB5hTw2E73/76350
 #EXTINF:-1 group-title="Europe Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIoznQGUfCjSd-OsA0S5ZWjQSsgWUf3CVIw&usqp=CAU", Ziggo Sport 1 NL
@@ -839,44 +845,28 @@ http://vo01.mohdtv.com:8880/voby5019/58746247/59219
 http://vo01.mohdtv.com:8880/voby5019/58746247/59218
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 (voo)
 http://vo01.mohdtv.com:8880/voby5019/58746247/59217
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier Football 1 (play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://playidtv24.vercel.app/stream/now/premier1.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier Football 2 (play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://playidtv24.vercel.app/stream/now/premier2.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier Football 3 (play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://playidtv24.vercel.app/stream/now/premier3.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", True Premier Football 4 (play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://playidtv24.vercel.app/stream/now/premier4.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", True Premier Football 5 (play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://playidtv24.vercel.app/stream/now/premier5.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.imgur.com/RUuK4yQ.png", True Premier Sport 1 (doo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.imgur.com/RUuK4yQ.png", True Premier Sport 1 (202)
+http://202.62.56.28:8080/nl.m3u8?id=1061
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.imgur.com/EGgbpmt.png", True Premier Sport 2 (202)
+http://202.62.56.28:8080/nl.m3u8?id=1065
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", True Premier Sport 1 (doo)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://i.imgur.com/EGgbpmt.png", True Premier Sport 2 (doo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", True Premier Sport 2 (doo)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", True Premier Sport 3 (doo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", True Premier Sport 4 (doo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", True Premier Sport 5 (doo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Asian Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1 (89)
@@ -1169,8 +1159,12 @@ https://webhdrunns.mizhls.ru/lb/premium878/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium879/index.m3u8|Origin=https://claplivehdplay.ru
-#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png", PPTV HD36 (doo)
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png", PPTV HD36 (app)
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyiDYjiN7pJYH8M3jfI45GKixhMkdQlqkO1Tl_9MbrL12MHdZomq-YDE&s=10", CCTV 5 (202)
+http://202.62.56.28:8080/nl.m3u8?id=1066
+#EXTINF:-1 group-title="Various Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWtcb4yZ0yWZ3c9tFlOCxpZNmkCeF9PvTYRRcXkAmD4lWr0zKNiWHqVfb&s=10", PTV Sports (125)
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="Various Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel (sam)
